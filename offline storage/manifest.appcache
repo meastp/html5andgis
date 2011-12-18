@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+# ver 1
+
+CACHE:
+# the 'index' page is cached implicitly
+jquery.min.js
+leaflet/leaflet.css
+leaflet/leaflet.ie.css
+leaflet/leaflet.js
+leaflet/images/marker.png
+leaflet/images/marker-shadow.png
+leaflet/images/popup-close.png
+leaflet/images/zoom-in.png
+leaflet/images/zoom-out.png
+glosh_wgs84.json
+glosh_build_wgs84.json
+
+NETWORK:
+*
+
+FALLBACK:
+storage.js storage_offline.js
+online.jpg offline.jpg
+

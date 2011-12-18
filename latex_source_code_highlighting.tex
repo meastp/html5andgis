@@ -1,0 +1,18 @@
+%
+% Created simple GML highlighter for listings package
+%
+
+\lstdefinelanguage{GML}{
+  keywords={gml, id, height, pos, wfs},
+  keywordstyle=\color{black}\bfseries,
+  keywords=[2]{Point, Building, GetFeature, Query, Filter},
+  keywordstyle=[2]\color{darkgray}\bfseries,
+  identifierstyle=\color{black},
+  sensitive=false,
+  comment=[l]{//},
+  morecomment=[s]{/*}{*/},
+  commentstyle=\color{purple}\ttfamily,
+  stringstyle=\color{red}\ttfamily,
+  morestring=[b]',
+  morestring=[b]"
+}

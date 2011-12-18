@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Inline SVG Sample</title>
+        <script src="jquery.min.js"></script>
+        <script src="raphael.js"></script>
+        <link type="text/css" href="jquery-ui/css/smoothness/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />	
+        <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+        <style type="text/css">
+        #model {
+            float: left;
+            clear: none;
+            width: 1000px;
+            height: 1000px;
+            border: solid red;
+            }
+        #bcontainer {
+            float: left;
+            clear: right;
+            border solid red;
+        }
+        
+        <!-- Examples inspired by the official jquery ui example documentation -->
+        #feedback { font-size: 1.4em; }
+        #buildings .ui-selecting { background: #FECA40; }
+        #buildings .ui-selected { background: #F39814; color: white; }
+        #buildings { list-style-type: none; margin: 0; padding: 0; width: 100%; }
+        #buildings li { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+        
+        </style>
+        <script type="text/javascript">
+                $(document).ready(function() {
+                    
+                    /* SVG Window */
+                    
+                    // Set sizes to consume the whole div container, #model
+                    var paper = Raphael("model", "100%", "100%");
+                    
+                    // Window object constructor
+                    function Window(context,x,y,width,height,title){
+                        this.context = context; //raphael/paper object
+                        this.title = title;
+                        this.width = width;
+                        this.height = height;
+                        
+                        // window objects
+                        this.window = this.context.set
+                        (
+                            this.context.rect(x,y,width,height).attr({stroke : "none", fill : "#ddd"}), // outer frame
+                            this.context.rect(x+5,y+5,width-10,height-10).attr({stroke : "none", fill : "#eee"}), // inner frame
+                            this.context.text(x+(width/2.0),y+30,title) // text content
+                        );
+                        
+                        this.destroy = function()
+                        {
+                            this.window.remove();
+                        }
+                        
+                    }
+                    
+                    /* Create building objects with svg paths from the raw svg-file, taken from openstreetmap */
+                    
+                    var byggteknisk = {
+                        name : "Lerkendalsbygget",
+                        obj : null,
+                        path : "m 432.15234,676.36328 59.16797,-27.07031 8.73828,-4 29.74219,65.03906 8.95703,19.57813 17.83203,-8.16797 -3.6289,-7.95313 51.59765,-23.59375 4.90625,10.71485 12.42969,27.17578 -10.65625,4.86718 -5.99219,2.73829 4.35938,9.53125 -27.14063,12.41406 -4.57031,-9.98438 -3.67187,-8.02734 -8.0586,3.68359 -7.48047,-16.35937 -17.5664,8.03906 3.83984,8.38281 -51.97266,23.78125 -23.73828,-51.90625 -7.96093,3.64063 -14.21094,-31.08203 -1.07422,-2.34766 -8.01172,3.66797 -5.83594,-12.76172 m 53.94922,44.9375 8.90235,19.99219 23.09375,-10.28516 -8.89844,-19.99219 -23.09766,10.28516 m -17.0664,-39.48828 9.24609,20.18359 24.44141,-11.19922 -9.2461,-20.17968 -24.4414,11.19531"
+                    }
+                    
+                    var realfag = {
+                        name : "Realfagbygget",
+                        obj : null,
+                        path : "m 527.7,517.2 -31.275,13.825 -2.65,-6.8 -17.75,8.175 -36.8,16.85 -9.875,4.525 -1,-2.175 -10.725,4.9 1.025,2.25 -22.25,10.175 -8.475,3.875 -16.725,7.7 -8.65,4 -22.35,10.375 -1.85,-4.625 -6.8,2.825 5.025,20.825 4.325,8.125 10.275,10.3 5.125,4 4.775,1.325 5.975,-0.375 36.5,-16.35 -2.3,-5.175 2.625,-1.2 2.625,-1.175 18.925,41.35 7.025,-3.225 -1.825,-4.025 3.375,-1.55 3.8,8.325 16.425,-7.525 -3.6,-7.85 2.075,-0.925 4.55,10 7.125,-3.275 -1.2,-2.6 3.7,-1.675 2.225,4.875 21.525,-9.85 -2.425,-5.325 3.775,-1.725 3.5,7.65 7.15,-3.3 -3.475,-7.625 14.6,-6.575 1.3,2.875 6.1,-2.75 8.975,20.025 5.125,-2.3 0.675,1.5 12.675,-4.925 -8.125,-10.175 -7.25,-16.175 6.475,-2.375 -4.425,-5.65 -6.15,-13.05 -3.3,-30.15 -6.225,2.65 -0.625,-5.175 -1.05,-8.825 11.225,-7.475 -2.4,-5.5 2.25,-1 3.55,-1.6 1.175,7.375 0.775,0.05 -1.1,-9.225 -1.15,-3.725 -1.55,-2.875 -3,-2.85 z m -24,78.875 9.075,20.275 -14.625,6.55 -9.275,-20.2 14.825,-6.625 z"
+                    }
+                    
+                    var kjemihallen = {
+                        name : "kjemihallen",
+                        obj : null,
+                        path : "m 481.56641,463.51172 27.64062,-12.58594 6.35156,13.9375 12.21485,26.82422 -2.58203,-5.67578 10.80859,23.75781 -27.63672,12.58594 -3.92578,-8.63281 -11.14453,-24.45704 -11.72656,-25.7539"
+                    }
+                    
+                    var kjemi1 = {
+                        name : "Kjemi 1",
+                        obj : null,
+                        path : "m 443.11328,469.86328 17.80469,-8.10547 15.9375,34.98438 16.4375,-7.47657 11.14453,24.45704 -34.24609,15.60156 -7.02344,-15.41797 -20.05469,-44.04297"
+                    }
+                    
+                    var kjemi2 = {
+                        name : "Kjemi 2",
+                        obj : null,
+                        path : "m 403.50781,487.93359 17.9336,-8.17187 20.04687,44.01562 21.67969,-9.87109 7.02344,15.41797 -39.625,18.03906 -6.95704,-15.27734 -20.10156,-44.15235"
+                    }
+                    
+                    var kjemi3 = {
+                        name : "Kjemi 3",
+                        obj : null,
+                        path : "m 364.10156,505.87891 8.40625,-3.82813 8.9336,-4.07031 20.10937,44.16015 22.05859,-10.05468 6.95704,15.27734 -36.4375,16.58594 -2.95313,1.35937 -6.89844,-15.10156 -11.57812,-25.45703 -8.59766,-18.87109"
+                    }
+                    
+                    var kjemi4 = {
+                        name : "Kjemi 4",
+                        obj : null,
+                        path : "m 323.84766,524.25781 18.0039,-8.19531 20.16406,44.3125 7.01563,15.36328 -18.00781,8.19922 -1.89844,-4.16797 -23.97656,-52.64062 -1.30078,-2.8711"
+                    }
+                    
+                    var kjemi5 = {
+                        name : "Kjemi 5",
+                        obj : null,
+                        path : "m 284.94531,542.01172 18.28516,-8.32813 2.88281,6.34375 17.26953,37.91797 3.44141,-1.57031 -18.86328,-41.42578 17.1875,-7.82031 23.97656,52.64062 -4.74609,2.15625 -24.61329,11.20703 -6.85937,-15.05859 -9.55469,4.34375 -18.40625,-40.40625"
+                    }
+                    
+                    var kjemi_sydfloy = {
+                        name : "Kjemi Sydfløy",
+                        obj : null,
+                        path : "m 362.01562,560.375 7.48047,-3.42188 8.56641,-3.90234 6.21484,-2.84375 6.89844,15.10156 2.95313,-1.35937 0.88671,1.94531 1.38672,3.02734 -8.48047,3.89063 -16.71093,7.6875 -2.17969,-4.76172 -7.01563,-15.36328"
+                    }
+                    
+                    var stripa = {
+                        name : "Sentralbyggene",
+                        obj : null,
+                        path : "m 319.7,243.875 -23.575,10.85 -7.325,3.375 -8.15,3.75 -24.575,11.325 6.9,14.95 13.125,-6.05 4.025,8.7 -6.125,2.825 18.1,39.35 19.175,-8.85 4.475,9.725 -17.25,7.95 5.8,12.625 10.325,-4.75 5.575,-2.575 0.75,-0.35 0.875,1.9 1.425,3.075 1.1,2.425 0.9,1.925 -6.575,3.025 -11.95,5.525 18.225,39.525 18.575,-8.55 2.475,5.375 1.875,4.1 -16.625,7.65 5.85,12.675 16.3,-7.525 1.15,2.525 1.25,2.725 1.2,2.575 0.65,1.425 -18.225,8.375 18.1,39.325 50.55,-23.3 -12.025,-26.15 -6.175,-13.35 -15.1,6.925 -3.275,1.525 -1.55,-3.4 -2.6,-5.625 16.225,-7.475 -5.825,-12.675 -16.325,7.525 -2.85,-6.15 -1.575,-3.425 18.475,-8.475 -18.15,-39.4 -18.7,8.625 -1.9,-4.175 -2.425,-5.225 16.45,-7.575 -5.8,-12.625 -16,7.375 -0.025,0 -0.575,-1.275 -1.55,-3.375 -1.05,-2.275 -1.375,-2.975 18.175,-8.375 -18.05,-39.125 -11.975,5.525 -4.025,-8.725 15.775,-7.275 1.1,2.375 2.75,-1.275 1.425,3.125 7.25,-3.35 -6.825,-14.875 -7.725,3.55 -2.55,-5.55 z"
+                    }
+                    
+                    // create the objects + self-references
+                    
+                    byggteknisk.obj = paper.path(byggteknisk.path);
+                    byggteknisk.obj.data("root",byggteknisk);
+                    
+                    realfag.obj = paper.path(realfag.path);
+                    realfag.obj.data("root",realfag);
+                    
+                    kjemihallen.obj = paper.path(kjemihallen.path);
+                    kjemihallen.obj.data("root",kjemihallen);
+                    
+                    kjemi1.obj = paper.path(kjemi1.path);
+                    kjemi1.obj.data("root",kjemi1);
+                    kjemi2.obj = paper.path(kjemi2.path);
+                    kjemi2.obj.data("root",kjemi2);
+                    kjemi3.obj = paper.path(kjemi3.path);
+                    kjemi3.obj.data("root",kjemi3);
+                    kjemi4.obj = paper.path(kjemi4.path);
+                    kjemi4.obj.data("root",kjemi4);
+                    kjemi5.obj = paper.path(kjemi5.path);
+                    kjemi5.obj.data("root",kjemi5);
+                    
+                    kjemi_sydfloy.obj = paper.path(kjemi_sydfloy.path);
+                    kjemi_sydfloy.obj.data("root",kjemi_sydfloy);
+                    
+                    stripa.obj = paper.path(stripa.path);
+                    stripa.obj.data("root",stripa);
+                    
+                    // define drag-and-drop functions
+                    
+                    var start = function() {
+                        
+                        // original position
+                        this.ox = 0;
+                        this.oy = 0;
+                        
+                        // background color when dragging
+                        this.attr({ fill : "#aaa" });
+                    };
+                    var move = function(dx,dy) {
+                        
+                        // calculate relative movement and translate object
+                        var trans = 
+                        { 
+                            x: dx-this.ox,
+                            y: dy-this.oy
+                        };
+                        
+                        var v;
+                        if(this.data("window")){
+                            v = this.data("window");
+                            v.window.translate(trans.x,trans.y);
+                        }
+                        
+                        this.translate(trans.x,trans.y);
+                        
+                        this.ox = dx;
+                        this.oy = dy;
+                    };
+                    var end = function() {
+                        // reset colour on end of drag
+                        this.attr({ fill : "#ccc" });
+                        
+                    };
+                    
+                    var kjemibyggene = paper.set(kjemihallen.obj,kjemi1.obj,kjemi2.obj,kjemi3.obj,kjemi4.obj,kjemi5.obj,kjemi_sydfloy.obj);
+                    
+                    var all_buildings = paper.set(byggteknisk.obj, realfag.obj, kjemihallen.obj, kjemi1.obj,kjemi2.obj,kjemi3.obj,kjemi4.obj,kjemi5.obj,kjemi_sydfloy.obj,stripa.obj)
+                    .mouseover(function() 
+                    {
+                        // mouseover functionality
+                        this.attr({ fill : "#ccc" });
+                        var bbox = this.getBBox();
+                        
+                        var root = this.data("root");
+                        
+                        // create window
+                        var w = new Window(paper,bbox.x+(bbox.width/2.0),bbox.y-60,100,60,root.name);
+                        this.data("window", w);
+                    })
+                    .mouseout(function() 
+                    {
+                        //mouseout functionality
+                        this.attr({ fill : "#fff" });
+                        //get and destroy window object
+                        var w = this.data("window");
+                        w.destroy();
+                        this.data("window",null);
+                    })
+                    .drag(move, start, end); // define drag-and-drop
+                    
+                    // hide on double click
+                    all_buildings.dblclick(function(){
+                        this.hide();
+                        });
+                    
+                    /* List of buildings for external behaviour */
+                    
+                    var buildings = {
+                        Sentralbyggene : stripa.obj,
+                        Realfagbygget : realfag.obj,
+                        Lerkendalsbygget : byggteknisk.obj,
+                        Kjemibyggene : kjemibyggene
+                    };
+                    
+                    // define list behaviour on select and unselect of items
+                    $("#buildings").selectable({
+                       selected: function(event, ui) {
+                            buildings[ui.selected.textContent].show(); // show item if hidden
+                            buildings[ui.selected.textContent].attr({ fill : "red" }); // red background-colour
+                       },
+                       
+                       unselected: function(event, ui) {
+                            buildings[ui.unselected.textContent].attr({ fill : "white" }); // reset background-colour
+                       }
+                    });
+                });
+        </script>
+    </head>
+
+<body>
+    <div id="model"></div>
+    <div id="bcontainer">
+    <ul id="buildings">
+        <li class="ui-widget-content">Sentralbyggene</li>
+        <li class="ui-widget-content">Kjemibyggene</li>
+        <li class="ui-widget-content">Realfagbygget</li>
+        <li class="ui-widget-content">Lerkendalsbygget</li>
+    </ul>
+    </div>
+</body>
+
+</html>
+

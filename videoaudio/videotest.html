@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+    <title>Video sample</title>
+    <meta charset="utf-8" />
+    <!-- Leaflet CSS --> 
+    <link rel="stylesheet" href="leaflet/leaflet.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="leaflet/leaflet.ie.css" /><![endif]-->
+    
+    <!-- Leaflet JavaScript -->
+    <script src="leaflet/leaflet.js"></script>
+    
+    
+    <script src="jquery.min.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        
+        /* Compability function for Android OS
+        var video_element = document.getElementById('video');
+        video_element.addEventListener('click',function(){
+        video_element.play();
+        },false);
+        */
+        
+        var map = new L.Map('map');
+        
+        // Add openstreetmap tile layer
+        
+        var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+        var osmAttrib='Map data © openstreetmap contributors';
+        var osm = new L.TileLayer(osmUrl,{minZoom: 8, maxZoom: 18, attribution: osmAttrib});
+        
+        var center = new L.LatLng(63.417286087926236, 10.404160022735596); // geographical point (longitude and latitude)
+        
+        map.setView(center, 12).addLayer(osm);
+        
+        function addMarker() 
+        {
+            var rnd_lat = center.lat + 0.003 * (Math.floor(Math.random() * 10.0) + 1.0);
+            var rnd_lng = center.lng + 0.003 * (Math.floor(Math.random() * 10.0) + 1.0);
+            
+            console.log(rnd_lat);
+            console.log(rnd_lng);
+            
+            
+            var latlng = new L.LatLng(rnd_lat, rnd_lng);
+            
+            var video_marker = new L.Marker(latlng);
+            map.addLayer(video_marker);
+            
+            video_marker.bindPopup('<video controls="controls" style="width:500px;"> <source src="test.mp4" type="video/mp4" /> <source src="test.webm" type="video/webm" /> <source src="test.ogv" type="video/ogg" />Your browser does not support the HTML5 video element, you can <a href="pics/video/gizmo.mp4">download the file</a> instead.</video>', {maxWidth : 1000})
+        }
+        
+        for(var i=0;i<10;i++){
+            addMarker();
+        }
+        
+        
+    });
+    </script>
+    
+</head>
+
+<body>
+    <div id="map" style="height: 600px;width: 800px;"></div>
+</body>
+
+</html>

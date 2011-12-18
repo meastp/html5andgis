@@ -1,0 +1,913 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4973416.000000, "name": "Håkon Jarls gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 50 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.394062, 63.422760 ], [ 10.393668, 63.421795 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4973488.000000, "name": "Eirik Jarls gate", "ref": "", "type": "residential", "oneway": 1, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.390663, 63.422187 ], [ 10.392016, 63.422826 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4973489.000000, "name": "Mauritz Hansens gate", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.389132, 63.422894 ], [ 10.389281, 63.422773 ], [ 10.390663, 63.422187 ], [ 10.391306, 63.421906 ], [ 10.391885, 63.421644 ], [ 10.393054, 63.421172 ], [ 10.393262, 63.421090 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4973735.000000, "name": "Eidsvolls gate", "ref": "865", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405397, 63.420171 ], [ 10.405662, 63.420085 ], [ 10.405914, 63.420034 ], [ 10.406256, 63.420004 ], [ 10.406673, 63.420013 ], [ 10.407159, 63.420111 ], [ 10.407853, 63.420277 ], [ 10.408235, 63.420400 ], [ 10.408555, 63.420506 ], [ 10.408800, 63.420603 ], [ 10.408878, 63.420635 ], [ 10.408966, 63.420673 ], [ 10.410827, 63.421657 ], [ 10.412653, 63.422403 ], [ 10.414675, 63.423176 ], [ 10.415439, 63.423557 ], [ 10.416505, 63.424626 ], [ 10.416784, 63.424888 ], [ 10.416973, 63.425109 ], [ 10.416993, 63.425303 ], [ 10.416971, 63.425420 ], [ 10.416966, 63.425452 ], [ 10.416958, 63.425576 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4973750.000000, "name": "Christian Fredriks gate", "ref": "865", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399245, 63.422091 ], [ 10.400260, 63.421831 ], [ 10.400652, 63.421731 ], [ 10.402018, 63.421497 ], [ 10.402888, 63.421354 ], [ 10.403598, 63.421120 ], [ 10.403844, 63.420985 ], [ 10.404284, 63.420751 ], [ 10.404593, 63.420599 ], [ 10.405397, 63.420171 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4973760.000000, "name": "Kronprinsesse Märthas allé", "ref": "", "type": "residential", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395708, 63.422126 ], [ 10.395767, 63.422180 ], [ 10.395985, 63.422383 ], [ 10.396201, 63.422633 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4973845.000000, "name": "Høgskoleveien", "ref": "865", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.394625, 63.422135 ], [ 10.394972, 63.422200 ], [ 10.395708, 63.422126 ], [ 10.396799, 63.421934 ], [ 10.398935, 63.421523 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4973846.000000, "name": "Magnus den Godes gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.396736, 63.418088 ], [ 10.396307, 63.418027 ], [ 10.395109, 63.417843 ], [ 10.393431, 63.417536 ], [ 10.391981, 63.417207 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4976151.000000, "name": "Snorres gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398526, 63.420823 ], [ 10.397179, 63.420698 ], [ 10.395768, 63.420567 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4981404.000000, "name": "Udbyes gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.393495, 63.420919 ], [ 10.393625, 63.420766 ], [ 10.393956, 63.420194 ], [ 10.394000, 63.420117 ], [ 10.394371, 63.419342 ], [ 10.394546, 63.418975 ], [ 10.395109, 63.417843 ], [ 10.395884, 63.416224 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4982588.000000, "name": "Einar Tambarskjelves gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.390964, 63.418435 ], [ 10.392091, 63.418601 ], [ 10.392589, 63.418674 ], [ 10.393808, 63.418847 ], [ 10.394546, 63.418975 ], [ 10.396141, 63.419217 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4984169.000000, "name": "Høgskoleringen", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407977, 63.416402 ], [ 10.407837, 63.416534 ], [ 10.407396, 63.416967 ], [ 10.407294, 63.417067 ], [ 10.407216, 63.417143 ], [ 10.407132, 63.417224 ], [ 10.406988, 63.417363 ], [ 10.406802, 63.417544 ], [ 10.406330, 63.418002 ], [ 10.406250, 63.418079 ], [ 10.405852, 63.418434 ], [ 10.405545, 63.418710 ], [ 10.404842, 63.419326 ], [ 10.404736, 63.419474 ], [ 10.404715, 63.419579 ], [ 10.404772, 63.419777 ], [ 10.404956, 63.419934 ], [ 10.405031, 63.419977 ], [ 10.405304, 63.420124 ], [ 10.405397, 63.420171 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4984268.000000, "name": "S. P. Andersens vei", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408681, 63.412870 ], [ 10.408681, 63.412705 ], [ 10.408717, 63.412470 ], [ 10.408707, 63.412407 ], [ 10.408533, 63.412303 ], [ 10.408348, 63.412233 ], [ 10.407992, 63.412097 ], [ 10.407519, 63.411728 ], [ 10.407201, 63.410954 ], [ 10.407162, 63.410863 ], [ 10.407131, 63.410791 ], [ 10.406824, 63.410091 ], [ 10.406609, 63.409853 ], [ 10.406263, 63.409654 ], [ 10.406168, 63.409600 ], [ 10.405386, 63.409360 ], [ 10.404813, 63.409183 ], [ 10.403701, 63.408826 ], [ 10.403508, 63.408760 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4984269.000000, "name": "Dybdahls vei", "ref": "FV864", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412439, 63.413568 ], [ 10.412737, 63.413574 ], [ 10.414774, 63.413564 ], [ 10.415111, 63.413563 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4990967.000000, "name": "Klostergata", "ref": "865", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399245, 63.422091 ], [ 10.398279, 63.422290 ], [ 10.396201, 63.422633 ], [ 10.394754, 63.422804 ], [ 10.394377, 63.422852 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4990969.000000, "name": "Elgeseter gate", "ref": "", "type": "trunk", "oneway": 1, "bridge": 0, "maxspeed": 50 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398275, 63.414958 ], [ 10.398079, 63.415371 ], [ 10.397900, 63.415738 ], [ 10.397530, 63.416392 ], [ 10.397332, 63.416737 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 4990970.000000, "name": "Elgeseter gate", "ref": "", "type": "trunk", "oneway": 1, "bridge": 0, "maxspeed": 50 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397332, 63.416737 ], [ 10.397455, 63.416382 ], [ 10.397495, 63.416056 ], [ 10.398062, 63.414887 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5048797.000000, "name": "Bergljots gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.392979, 63.422795 ], [ 10.392883, 63.422492 ], [ 10.392518, 63.421950 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5048798.000000, "name": "Vangslunds gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.393956, 63.420194 ], [ 10.394356, 63.420234 ], [ 10.395250, 63.420323 ], [ 10.395377, 63.420336 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5049324.000000, "name": "Harald Hårdrådes gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.392977, 63.415781 ], [ 10.391981, 63.417207 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5049325.000000, "name": "Abels gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.392977, 63.415781 ], [ 10.394197, 63.415951 ], [ 10.395635, 63.416139 ], [ 10.395884, 63.416224 ], [ 10.397253, 63.416383 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5049327.000000, "name": "Høgskoleveien", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401480, 63.419941 ], [ 10.401197, 63.419813 ], [ 10.401098, 63.419670 ], [ 10.401072, 63.419556 ], [ 10.401113, 63.419471 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5049329.000000, "name": "Høgskoleringen", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407977, 63.416402 ], [ 10.407746, 63.416225 ], [ 10.407598, 63.415688 ], [ 10.407612, 63.415588 ], [ 10.407777, 63.415490 ], [ 10.409191, 63.415092 ], [ 10.409642, 63.414958 ], [ 10.409800, 63.414854 ], [ 10.409920, 63.414728 ], [ 10.409972, 63.414578 ], [ 10.409911, 63.414362 ], [ 10.409749, 63.414194 ], [ 10.409396, 63.414062 ], [ 10.408997, 63.413985 ], [ 10.408542, 63.413932 ], [ 10.408357, 63.413913 ], [ 10.407860, 63.413859 ], [ 10.406634, 63.413717 ], [ 10.406335, 63.413705 ], [ 10.406134, 63.413752 ], [ 10.405995, 63.413886 ], [ 10.405904, 63.414085 ], [ 10.405859, 63.414260 ], [ 10.405855, 63.414546 ], [ 10.405855, 63.414623 ], [ 10.405863, 63.414797 ], [ 10.405819, 63.414850 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5049333.000000, "name": "Alfred Getz vei", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405222, 63.417876 ], [ 10.405101, 63.417893 ], [ 10.404636, 63.417872 ], [ 10.404502, 63.417694 ], [ 10.404933, 63.417256 ], [ 10.405053, 63.417135 ], [ 10.405784, 63.417283 ], [ 10.405662, 63.417403 ], [ 10.405232, 63.417827 ], [ 10.405222, 63.417876 ], [ 10.405389, 63.417902 ], [ 10.405716, 63.417969 ], [ 10.406073, 63.418042 ], [ 10.406250, 63.418079 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5049334.000000, "name": "Kolbjørn Hejes vei", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405545, 63.418710 ], [ 10.405394, 63.418679 ], [ 10.405321, 63.418664 ], [ 10.404925, 63.418584 ], [ 10.404470, 63.418491 ], [ 10.404046, 63.418405 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5049351.000000, "name": "Vollabakken", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399245, 63.422091 ], [ 10.399592, 63.422389 ], [ 10.399750, 63.422521 ], [ 10.399868, 63.422622 ], [ 10.400649, 63.423294 ], [ 10.400948, 63.423531 ], [ 10.401433, 63.423878 ], [ 10.401717, 63.424095 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5049352.000000, "name": "Singsakerbakken", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399750, 63.422521 ], [ 10.400885, 63.422262 ], [ 10.400427, 63.421950 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5056870.000000, "name": "Olav Kyrres gate", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.393495, 63.420919 ], [ 10.393562, 63.420941 ], [ 10.393606, 63.420972 ], [ 10.393621, 63.421021 ], [ 10.393591, 63.421062 ], [ 10.393526, 63.421093 ], [ 10.393460, 63.421106 ], [ 10.393376, 63.421110 ], [ 10.393316, 63.421103 ], [ 10.393262, 63.421090 ], [ 10.393206, 63.421061 ], [ 10.393177, 63.421025 ], [ 10.393180, 63.420987 ], [ 10.393229, 63.420944 ], [ 10.393303, 63.420919 ], [ 10.393403, 63.420910 ], [ 10.393495, 63.420919 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5056871.000000, "name": "Olav Kyrres gate", "ref": "", "type": "tertiary", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.393206, 63.421061 ], [ 10.392929, 63.421038 ], [ 10.392607, 63.421002 ], [ 10.391235, 63.420851 ], [ 10.389139, 63.420648 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5056872.000000, "name": "Olav Kyrres gate", "ref": "", "type": "tertiary", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395053, 63.421282 ], [ 10.393526, 63.421093 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5056873.000000, "name": "Olav Kyrres gate", "ref": "", "type": "tertiary", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.393606, 63.420972 ], [ 10.395131, 63.421136 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5079615.000000, "name": "Holtermanns veg", "ref": "", "type": "trunk", "oneway": 1, "bridge": 0, "maxspeed": 50 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398062, 63.414887 ], [ 10.398327, 63.414354 ], [ 10.398476, 63.414107 ], [ 10.398744, 63.413566 ], [ 10.398973, 63.412913 ], [ 10.399052, 63.412626 ], [ 10.399060, 63.412546 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5089895.000000, "name": "Jonsvannsveien", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412653, 63.422403 ], [ 10.412276, 63.421514 ], [ 10.411787, 63.420490 ], [ 10.411554, 63.420013 ], [ 10.412299, 63.419291 ], [ 10.413232, 63.418577 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5106516.000000, "name": "Høgskoleveien", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398935, 63.421523 ], [ 10.399555, 63.421333 ], [ 10.399790, 63.421249 ], [ 10.400321, 63.420981 ], [ 10.400720, 63.420692 ], [ 10.401123, 63.420294 ], [ 10.401480, 63.419941 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5122160.000000, "name": "Klæbuveien", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397499, 63.419012 ], [ 10.397603, 63.418396 ], [ 10.397638, 63.418240 ], [ 10.397874, 63.417892 ], [ 10.397972, 63.417747 ], [ 10.398319, 63.417235 ], [ 10.398505, 63.416912 ], [ 10.398737, 63.416521 ], [ 10.398767, 63.416473 ], [ 10.399146, 63.415836 ], [ 10.399220, 63.415713 ], [ 10.399354, 63.415488 ], [ 10.399386, 63.415434 ], [ 10.399437, 63.415348 ], [ 10.399585, 63.415107 ], [ 10.399847, 63.414659 ], [ 10.400797, 63.413138 ], [ 10.401003, 63.412761 ], [ 10.401017, 63.412740 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5122254.000000, "name": "Magnus den Godes gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397638, 63.418240 ], [ 10.396736, 63.418088 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5122255.000000, "name": "Klæbuveien", "ref": "865", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399245, 63.422091 ], [ 10.399015, 63.421805 ], [ 10.398959, 63.421604 ], [ 10.398935, 63.421523 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5122256.000000, "name": "Klæbuveien", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397519, 63.419125 ], [ 10.397499, 63.419012 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5154832.000000, "name": "Lillegårdsbakken", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403628, 63.426325 ], [ 10.403723, 63.426331 ], [ 10.403890, 63.426320 ], [ 10.404286, 63.426188 ], [ 10.404816, 63.426053 ], [ 10.404934, 63.426038 ], [ 10.405156, 63.426019 ], [ 10.405934, 63.426010 ], [ 10.406150, 63.425995 ], [ 10.406574, 63.425930 ], [ 10.406727, 63.425890 ], [ 10.407306, 63.425749 ], [ 10.408106, 63.425572 ], [ 10.408489, 63.425258 ], [ 10.408525, 63.425116 ], [ 10.408644, 63.424915 ], [ 10.408815, 63.424683 ], [ 10.408909, 63.424590 ], [ 10.409007, 63.424525 ], [ 10.409219, 63.424373 ], [ 10.409436, 63.424264 ], [ 10.409743, 63.424164 ], [ 10.409950, 63.424106 ], [ 10.410575, 63.424025 ], [ 10.411566, 63.423908 ], [ 10.411789, 63.423573 ], [ 10.412154, 63.423051 ], [ 10.412653, 63.422403 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5154837.000000, "name": "Overlege Kindts gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.414068, 63.419339 ], [ 10.413715, 63.419493 ], [ 10.413525, 63.420513 ], [ 10.414204, 63.420793 ], [ 10.414734, 63.421124 ], [ 10.415480, 63.421619 ], [ 10.416458, 63.422142 ], [ 10.417244, 63.422614 ], [ 10.418576, 63.423369 ], [ 10.419292, 63.423818 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5154838.000000, "name": "Strindveien", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.413232, 63.418577 ], [ 10.414068, 63.419339 ], [ 10.415727, 63.420157 ], [ 10.416485, 63.420489 ], [ 10.417299, 63.421036 ], [ 10.417933, 63.421701 ], [ 10.418066, 63.421818 ], [ 10.418491, 63.422189 ], [ 10.418697, 63.422370 ], [ 10.419532, 63.422914 ], [ 10.420286, 63.423502 ], [ 10.420661, 63.423770 ], [ 10.421148, 63.424461 ], [ 10.421571, 63.425078 ], [ 10.421878, 63.425915 ], [ 10.421956, 63.426181 ], [ 10.422191, 63.426837 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5155865.000000, "name": "Strindveien", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411965, 63.413717 ], [ 10.411837, 63.413863 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5155866.000000, "name": "", "ref": "FV864", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412196, 63.413382 ], [ 10.412312, 63.413414 ], [ 10.412386, 63.413453 ], [ 10.412437, 63.413510 ], [ 10.412439, 63.413568 ], [ 10.412413, 63.413615 ], [ 10.412338, 63.413666 ], [ 10.412217, 63.413705 ], [ 10.412085, 63.413721 ], [ 10.411965, 63.413717 ], [ 10.411839, 63.413693 ], [ 10.411739, 63.413652 ], [ 10.411695, 63.413619 ], [ 10.411660, 63.413559 ], [ 10.411672, 63.413502 ], [ 10.411728, 63.413446 ], [ 10.411833, 63.413400 ], [ 10.411958, 63.413375 ], [ 10.412094, 63.413371 ], [ 10.412196, 63.413382 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5215885.000000, "name": "Høgskoleveien", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401480, 63.419941 ], [ 10.401898, 63.419941 ], [ 10.402263, 63.419876 ], [ 10.402450, 63.419804 ], [ 10.402520, 63.419746 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5215886.000000, "name": "Øvre Alle", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405149, 63.420517 ], [ 10.406106, 63.420872 ], [ 10.407527, 63.421380 ], [ 10.407595, 63.421405 ], [ 10.412154, 63.423051 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5215887.000000, "name": "Øvre Alle", "ref": "", "type": "residential", "oneway": 0, "bridge": 1, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404577, 63.420313 ], [ 10.405149, 63.420517 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5215888.000000, "name": "Øvre Alle", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403362, 63.419859 ], [ 10.403454, 63.419889 ], [ 10.404577, 63.420313 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 5215933.000000, "name": "Neufeldts gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402888, 63.421354 ], [ 10.403152, 63.421798 ], [ 10.403729, 63.422023 ], [ 10.404436, 63.422264 ], [ 10.405441, 63.422578 ], [ 10.407075, 63.423114 ], [ 10.407978, 63.423471 ], [ 10.409464, 63.423947 ], [ 10.409950, 63.424106 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 7976758.000000, "name": "Gløshaugveien", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398275, 63.414958 ], [ 10.399585, 63.415107 ], [ 10.399884, 63.415135 ], [ 10.401199, 63.415028 ], [ 10.402716, 63.414876 ], [ 10.403841, 63.414801 ], [ 10.404546, 63.414830 ], [ 10.405307, 63.414944 ], [ 10.405432, 63.414971 ], [ 10.405556, 63.414920 ], [ 10.405657, 63.414756 ], [ 10.405680, 63.414281 ], [ 10.405917, 63.413551 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 7988806.000000, "name": "Hans Osnes' veg", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400797, 63.413138 ], [ 10.403372, 63.413312 ], [ 10.404759, 63.413423 ], [ 10.405917, 63.413551 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 7988808.000000, "name": "Moslings gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401199, 63.415028 ], [ 10.401791, 63.413919 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 7988809.000000, "name": "P.A. Munchs gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401791, 63.413919 ], [ 10.403069, 63.414054 ], [ 10.405680, 63.414281 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 7989476.000000, "name": "Geelmuydens gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402716, 63.414876 ], [ 10.403069, 63.414054 ], [ 10.403372, 63.413312 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8010411.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395884, 63.416224 ], [ 10.396050, 63.416076 ], [ 10.396262, 63.415955 ], [ 10.396768, 63.414921 ], [ 10.396765, 63.414794 ], [ 10.397239, 63.413584 ], [ 10.397259, 63.413565 ], [ 10.397653, 63.413523 ], [ 10.397824, 63.412993 ], [ 10.397567, 63.412783 ], [ 10.397615, 63.412591 ], [ 10.397784, 63.412134 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8010412.000000, "name": "Veisletten allé", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395156, 63.414632 ], [ 10.395486, 63.414144 ], [ 10.396140, 63.413857 ], [ 10.396882, 63.413534 ], [ 10.397022, 63.413519 ], [ 10.397259, 63.413565 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8023239.000000, "name": "", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398062, 63.414887 ], [ 10.398275, 63.414958 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8023240.000000, "name": "Professor Brochs gate", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398062, 63.414887 ], [ 10.396950, 63.414802 ], [ 10.396848, 63.414793 ], [ 10.396765, 63.414794 ], [ 10.395323, 63.414651 ], [ 10.395156, 63.414632 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8033326.000000, "name": "Sem Sælands vei", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407294, 63.417067 ], [ 10.407081, 63.417023 ], [ 10.406277, 63.416858 ], [ 10.406146, 63.416832 ], [ 10.406014, 63.416805 ], [ 10.405787, 63.416758 ], [ 10.405597, 63.416719 ], [ 10.405418, 63.416682 ], [ 10.404944, 63.416585 ], [ 10.404283, 63.416447 ], [ 10.404181, 63.416425 ], [ 10.403990, 63.416384 ], [ 10.403732, 63.416332 ], [ 10.403548, 63.416179 ], [ 10.403450, 63.416156 ], [ 10.403357, 63.416135 ], [ 10.403224, 63.416132 ], [ 10.403096, 63.416153 ], [ 10.402975, 63.416204 ], [ 10.402155, 63.417013 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8034833.000000, "name": "Søndre Jonsgate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399592, 63.422389 ], [ 10.399337, 63.422440 ], [ 10.398257, 63.422621 ], [ 10.398232, 63.422720 ], [ 10.398342, 63.422771 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8040316.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 1, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401273, 63.412950 ], [ 10.400559, 63.412891 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8040317.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400559, 63.412891 ], [ 10.399629, 63.412828 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8040319.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407310, 63.413001 ], [ 10.406971, 63.413017 ], [ 10.406098, 63.413086 ], [ 10.404976, 63.413159 ], [ 10.404112, 63.413145 ], [ 10.403214, 63.413066 ], [ 10.402723, 63.412955 ], [ 10.401563, 63.412964 ], [ 10.401273, 63.412950 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8040323.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405917, 63.413551 ], [ 10.406680, 63.413650 ], [ 10.407808, 63.413757 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8043267.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.414309, 63.414274 ], [ 10.414491, 63.414163 ], [ 10.414716, 63.413953 ], [ 10.414967, 63.413758 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8046039.000000, "name": "Gudes gate", "ref": "", "type": "residential", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408878, 63.420635 ], [ 10.407527, 63.421380 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8046040.000000, "name": "Professorvegen", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405441, 63.422578 ], [ 10.406856, 63.421806 ], [ 10.407595, 63.421405 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8046175.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408169, 63.412973 ], [ 10.408241, 63.412807 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8067687.000000, "name": "Tidemands gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408555, 63.420506 ], [ 10.408636, 63.420418 ], [ 10.408317, 63.419549 ], [ 10.408462, 63.419220 ], [ 10.408391, 63.418895 ], [ 10.408817, 63.418403 ], [ 10.409400, 63.417630 ], [ 10.409625, 63.417600 ], [ 10.410029, 63.417801 ], [ 10.410455, 63.418203 ], [ 10.410455, 63.418594 ], [ 10.410433, 63.419156 ], [ 10.410365, 63.419809 ], [ 10.410318, 63.420420 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8067688.000000, "name": "Gudes gate", "ref": "", "type": "residential", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411787, 63.420490 ], [ 10.410701, 63.420429 ], [ 10.410318, 63.420420 ], [ 10.409923, 63.420460 ], [ 10.409569, 63.420518 ], [ 10.409073, 63.420639 ], [ 10.408966, 63.420673 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8069669.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409625, 63.417600 ], [ 10.410406, 63.416961 ], [ 10.410532, 63.416838 ], [ 10.410970, 63.416431 ], [ 10.411130, 63.416270 ], [ 10.411242, 63.416232 ], [ 10.411251, 63.416155 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8098640.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407294, 63.417067 ], [ 10.407612, 63.417129 ], [ 10.407766, 63.417108 ], [ 10.408385, 63.417230 ], [ 10.408646, 63.416976 ], [ 10.408759, 63.416883 ], [ 10.408936, 63.416795 ], [ 10.409050, 63.416771 ], [ 10.410144, 63.416722 ], [ 10.410353, 63.416731 ], [ 10.410532, 63.416838 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8098646.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404181, 63.416425 ], [ 10.404304, 63.416303 ], [ 10.404320, 63.416237 ], [ 10.404608, 63.415951 ], [ 10.404755, 63.415979 ], [ 10.404405, 63.416324 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8098651.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403696, 63.418334 ], [ 10.403638, 63.418392 ], [ 10.403029, 63.418995 ], [ 10.402929, 63.418975 ], [ 10.402057, 63.418799 ], [ 10.402089, 63.418767 ], [ 10.402643, 63.418218 ], [ 10.402726, 63.418137 ], [ 10.403696, 63.418334 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8098653.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404046, 63.418405 ], [ 10.403696, 63.418334 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8098654.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402155, 63.417013 ], [ 10.401799, 63.417063 ], [ 10.401482, 63.417146 ], [ 10.401354, 63.417261 ], [ 10.401343, 63.417384 ], [ 10.401405, 63.417488 ], [ 10.401363, 63.417640 ], [ 10.401023, 63.417970 ], [ 10.400656, 63.418132 ], [ 10.400843, 63.418237 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8098657.000000, "name": "Høgskoleringen", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405321, 63.418664 ], [ 10.405188, 63.418731 ], [ 10.404779, 63.419112 ], [ 10.404252, 63.419429 ], [ 10.403533, 63.419841 ], [ 10.403454, 63.419889 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8169195.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406668, 63.413913 ], [ 10.406538, 63.413854 ], [ 10.406634, 63.413717 ], [ 10.406680, 63.413650 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8169196.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408608, 63.413838 ], [ 10.407808, 63.413757 ], [ 10.407827, 63.413719 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8170626.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400656, 63.418132 ], [ 10.400449, 63.418153 ], [ 10.399697, 63.418107 ], [ 10.399547, 63.418090 ], [ 10.399390, 63.418103 ], [ 10.398592, 63.418578 ], [ 10.399188, 63.418788 ], [ 10.399468, 63.418796 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 8579353.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403743, 63.415590 ], [ 10.403781, 63.415485 ], [ 10.403839, 63.415421 ], [ 10.404006, 63.415373 ], [ 10.404305, 63.415293 ], [ 10.404545, 63.415234 ], [ 10.404681, 63.415228 ], [ 10.405343, 63.415354 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9098904.000000, "name": "Riddervolds gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412276, 63.421514 ], [ 10.412381, 63.421509 ], [ 10.412852, 63.421517 ], [ 10.413389, 63.421575 ], [ 10.413595, 63.421610 ], [ 10.413801, 63.421658 ], [ 10.414639, 63.421878 ], [ 10.415284, 63.422128 ], [ 10.415816, 63.422389 ], [ 10.416313, 63.422721 ], [ 10.416527, 63.422908 ], [ 10.416741, 63.423095 ], [ 10.417255, 63.423599 ], [ 10.417878, 63.424229 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9098906.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412653, 63.422403 ], [ 10.412913, 63.422255 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9098907.000000, "name": "Bergsbakken", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412913, 63.422255 ], [ 10.413313, 63.421916 ], [ 10.413801, 63.421658 ], [ 10.414734, 63.421124 ], [ 10.415727, 63.420157 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9397385.000000, "name": "Lars Onsagers veg", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411912, 63.414619 ], [ 10.412990, 63.414616 ], [ 10.413243, 63.414641 ], [ 10.413578, 63.414701 ], [ 10.413756, 63.414671 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9397386.000000, "name": "Lars Onsagers veg", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.413809, 63.414120 ], [ 10.414309, 63.414274 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9397387.000000, "name": "Peder Kroghs veg", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.414774, 63.413564 ], [ 10.414786, 63.413614 ], [ 10.414810, 63.413700 ], [ 10.414967, 63.413758 ], [ 10.415383, 63.413874 ], [ 10.415747, 63.414035 ], [ 10.415992, 63.414173 ], [ 10.416120, 63.414298 ], [ 10.416149, 63.414440 ], [ 10.416156, 63.414510 ], [ 10.416086, 63.414643 ], [ 10.415965, 63.414877 ], [ 10.415789, 63.415077 ], [ 10.415391, 63.415295 ], [ 10.415129, 63.415381 ], [ 10.414838, 63.415455 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9397388.000000, "name": "Prestegårdsvegen", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411954, 63.415241 ], [ 10.413112, 63.415241 ], [ 10.414045, 63.415342 ], [ 10.414838, 63.415455 ], [ 10.415353, 63.415620 ], [ 10.415723, 63.415863 ], [ 10.415988, 63.416163 ], [ 10.416054, 63.416239 ], [ 10.415839, 63.416577 ], [ 10.415727, 63.416723 ], [ 10.415601, 63.416888 ], [ 10.415495, 63.417032 ], [ 10.415363, 63.417247 ], [ 10.415465, 63.417358 ], [ 10.415536, 63.417404 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9546285.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411417, 63.415279 ], [ 10.411954, 63.415241 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9546286.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411242, 63.416232 ], [ 10.411324, 63.416434 ], [ 10.411538, 63.416505 ], [ 10.411698, 63.416498 ], [ 10.411832, 63.416465 ], [ 10.411843, 63.416189 ], [ 10.412072, 63.416005 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9546287.000000, "name": "Prost Castbergs veg", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.415839, 63.416577 ], [ 10.415565, 63.416471 ], [ 10.415174, 63.416360 ], [ 10.414771, 63.416249 ], [ 10.413909, 63.416103 ], [ 10.413273, 63.416046 ], [ 10.412072, 63.416005 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9546295.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412264, 63.413773 ], [ 10.412390, 63.413816 ], [ 10.412520, 63.413860 ], [ 10.412707, 63.413900 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9546298.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.414446, 63.417954 ], [ 10.414402, 63.417353 ], [ 10.414462, 63.417038 ], [ 10.414583, 63.416699 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9930061.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.391981, 63.417207 ], [ 10.391774, 63.417144 ], [ 10.391338, 63.417013 ], [ 10.391065, 63.416946 ], [ 10.390931, 63.416806 ], [ 10.390832, 63.416721 ], [ 10.390548, 63.416604 ], [ 10.390454, 63.416725 ], [ 10.390340, 63.416891 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9930066.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.390546, 63.415824 ], [ 10.390880, 63.415868 ], [ 10.391218, 63.415911 ], [ 10.391917, 63.416008 ], [ 10.392462, 63.416078 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 9930081.000000, "name": "Johan Svendsens gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.392749, 63.417937 ], [ 10.392091, 63.418601 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 10055949.000000, "name": "Klüwers gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404657, 63.421575 ], [ 10.404815, 63.421892 ], [ 10.404758, 63.422016 ], [ 10.404436, 63.422264 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 10055950.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405953, 63.420960 ], [ 10.404845, 63.420670 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 10423243.000000, "name": "Schives gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404817, 63.423090 ], [ 10.404120, 63.423445 ], [ 10.403928, 63.423405 ], [ 10.403278, 63.422904 ], [ 10.402529, 63.422392 ], [ 10.401800, 63.421996 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 10423244.000000, "name": "Parkveien", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408909, 63.424590 ], [ 10.408720, 63.424552 ], [ 10.407081, 63.423944 ], [ 10.406211, 63.423602 ], [ 10.404817, 63.423090 ], [ 10.403444, 63.422234 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 10423245.000000, "name": "Ingvald Undsets gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402529, 63.422392 ], [ 10.403444, 63.422234 ], [ 10.403729, 63.422023 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 10423246.000000, "name": "Maristuveien", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408456, 63.422335 ], [ 10.407075, 63.423114 ], [ 10.407081, 63.423944 ], [ 10.406598, 63.424633 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 10589801.000000, "name": "Lars Onsagers veg", "ref": "", "type": "residential", "oneway": 0, "bridge": 1, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.413756, 63.414671 ], [ 10.413997, 63.414489 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 10589802.000000, "name": "Lars Onsagers veg", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.413997, 63.414489 ], [ 10.414261, 63.414304 ], [ 10.414309, 63.414274 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 11005769.000000, "name": "Nedre alle", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404657, 63.421575 ], [ 10.405578, 63.421454 ], [ 10.406856, 63.421806 ], [ 10.408456, 63.422335 ], [ 10.410590, 63.423113 ], [ 10.411789, 63.423573 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 11005770.000000, "name": "Korsgata", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400885, 63.422262 ], [ 10.402747, 63.423507 ], [ 10.403067, 63.423533 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 14184139.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407827, 63.413719 ], [ 10.407880, 63.413588 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 14184140.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407880, 63.413588 ], [ 10.408035, 63.413346 ], [ 10.408167, 63.413096 ], [ 10.408169, 63.412973 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 14193623.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411251, 63.414619 ], [ 10.411705, 63.414631 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 14857489.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407851, 63.413328 ], [ 10.408035, 63.413346 ], [ 10.408291, 63.413379 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 14857490.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408581, 63.413108 ], [ 10.408479, 63.413144 ], [ 10.408361, 63.413199 ], [ 10.408291, 63.413379 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 14874009.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409282, 63.410425 ], [ 10.409092, 63.410600 ], [ 10.409118, 63.410710 ], [ 10.409376, 63.411411 ], [ 10.409190, 63.411783 ], [ 10.409021, 63.411908 ], [ 10.408794, 63.412018 ], [ 10.408838, 63.412166 ], [ 10.408821, 63.412365 ], [ 10.408842, 63.412412 ], [ 10.408840, 63.412477 ], [ 10.408835, 63.412495 ], [ 10.408822, 63.412556 ], [ 10.408843, 63.412671 ], [ 10.408885, 63.412747 ], [ 10.408979, 63.412803 ], [ 10.409103, 63.412823 ], [ 10.409539, 63.412866 ], [ 10.410086, 63.412937 ], [ 10.410635, 63.413042 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 14874010.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410534, 63.412634 ], [ 10.410728, 63.412461 ], [ 10.411476, 63.412613 ], [ 10.412230, 63.412827 ], [ 10.412335, 63.412896 ], [ 10.412209, 63.412973 ], [ 10.412021, 63.412974 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 14874012.000000, "name": "", "ref": "", "type": "path", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412837, 63.412982 ], [ 10.412335, 63.412896 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 14874015.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410635, 63.413042 ], [ 10.411377, 63.413267 ], [ 10.411608, 63.413318 ], [ 10.411965, 63.413325 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 15437176.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.396799, 63.421934 ], [ 10.396870, 63.421982 ], [ 10.396902, 63.422004 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 15438437.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395985, 63.422383 ], [ 10.396386, 63.422332 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 15464898.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.422466, 63.407639 ], [ 10.422389, 63.407670 ], [ 10.422114, 63.407720 ], [ 10.421762, 63.407732 ], [ 10.421514, 63.407861 ], [ 10.421335, 63.408043 ], [ 10.421339, 63.408299 ], [ 10.421184, 63.408598 ], [ 10.421045, 63.408858 ], [ 10.420784, 63.409008 ], [ 10.420555, 63.409162 ], [ 10.420408, 63.409347 ], [ 10.420212, 63.409606 ], [ 10.419226, 63.410386 ], [ 10.419048, 63.410523 ], [ 10.418604, 63.410865 ], [ 10.418227, 63.411116 ], [ 10.417943, 63.411271 ], [ 10.416981, 63.411773 ], [ 10.416801, 63.411895 ], [ 10.416273, 63.412165 ], [ 10.415683, 63.412467 ], [ 10.414875, 63.412823 ], [ 10.414533, 63.412931 ], [ 10.414196, 63.413038 ], [ 10.413653, 63.413148 ], [ 10.412679, 63.413319 ], [ 10.412594, 63.413362 ], [ 10.412521, 63.413268 ], [ 10.412462, 63.413188 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 15601122.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399245, 63.422091 ], [ 10.399310, 63.421997 ], [ 10.400654, 63.421660 ], [ 10.401951, 63.421441 ], [ 10.402838, 63.421301 ], [ 10.403360, 63.421113 ], [ 10.404481, 63.420533 ], [ 10.404860, 63.420346 ], [ 10.404970, 63.420291 ], [ 10.405083, 63.420242 ], [ 10.405133, 63.420201 ], [ 10.405147, 63.420162 ], [ 10.405124, 63.420113 ], [ 10.405036, 63.420043 ], [ 10.404845, 63.419926 ], [ 10.404776, 63.419869 ], [ 10.404690, 63.419799 ], [ 10.404615, 63.419652 ], [ 10.404626, 63.419462 ], [ 10.404822, 63.419249 ], [ 10.405338, 63.418772 ], [ 10.405344, 63.418754 ], [ 10.405329, 63.418741 ], [ 10.405394, 63.418679 ], [ 10.405433, 63.418642 ], [ 10.405477, 63.418642 ], [ 10.405507, 63.418625 ], [ 10.405747, 63.418410 ], [ 10.405813, 63.418288 ], [ 10.406073, 63.418042 ], [ 10.406234, 63.417984 ], [ 10.406696, 63.417522 ], [ 10.407098, 63.417119 ], [ 10.407125, 63.417093 ], [ 10.407107, 63.417068 ], [ 10.407050, 63.417056 ], [ 10.407081, 63.417023 ], [ 10.407183, 63.416923 ], [ 10.407347, 63.416762 ], [ 10.407428, 63.416683 ], [ 10.407515, 63.416659 ], [ 10.407689, 63.416502 ], [ 10.407722, 63.416447 ], [ 10.407711, 63.416387 ], [ 10.407619, 63.416244 ], [ 10.407468, 63.416029 ], [ 10.407421, 63.415969 ], [ 10.407348, 63.415874 ], [ 10.407370, 63.415781 ], [ 10.407428, 63.415676 ], [ 10.407597, 63.415524 ], [ 10.407754, 63.415453 ], [ 10.409328, 63.415008 ], [ 10.409620, 63.414895 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 15601127.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399310, 63.421997 ], [ 10.399536, 63.421864 ], [ 10.400538, 63.421629 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 15687536.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412594, 63.413362 ], [ 10.412736, 63.413552 ], [ 10.412737, 63.413574 ], [ 10.412734, 63.413666 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 15687537.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411608, 63.413318 ], [ 10.411455, 63.413367 ], [ 10.411311, 63.413447 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 15687538.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407310, 63.413001 ], [ 10.408167, 63.413096 ], [ 10.408581, 63.413108 ], [ 10.409622, 63.413127 ], [ 10.410211, 63.413177 ], [ 10.410763, 63.413295 ], [ 10.411311, 63.413447 ], [ 10.411541, 63.413585 ], [ 10.411642, 63.413727 ], [ 10.411696, 63.413869 ], [ 10.411837, 63.413863 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 16144150.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395188, 63.421173 ], [ 10.396818, 63.421235 ], [ 10.397263, 63.421263 ], [ 10.397723, 63.421292 ], [ 10.398083, 63.421307 ], [ 10.398779, 63.421482 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 16144151.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.396818, 63.421235 ], [ 10.395064, 63.421420 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 16144152.000000, "name": "Grensen", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400321, 63.420981 ], [ 10.400505, 63.420996 ], [ 10.401558, 63.421085 ], [ 10.402838, 63.421301 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 16144153.000000, "name": "Singsakerbakken", "ref": "", "type": "residential", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406106, 63.420872 ], [ 10.405953, 63.420960 ], [ 10.405031, 63.421394 ], [ 10.404963, 63.421429 ], [ 10.404657, 63.421575 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 16189585.000000, "name": "Klæbuveien", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398935, 63.421523 ], [ 10.398898, 63.421457 ], [ 10.398526, 63.420823 ], [ 10.398298, 63.420439 ], [ 10.397888, 63.419770 ], [ 10.397676, 63.419406 ], [ 10.397519, 63.419125 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 16192998.000000, "name": "Strindveien", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 1, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411837, 63.413863 ], [ 10.411714, 63.414145 ], [ 10.411644, 63.414301 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 16193006.000000, "name": "Strindveien", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411644, 63.414301 ], [ 10.411482, 63.414672 ], [ 10.411406, 63.414982 ], [ 10.411417, 63.415279 ], [ 10.411512, 63.415964 ], [ 10.411550, 63.416143 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 17559126.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405596, 63.414979 ], [ 10.405804, 63.414864 ], [ 10.405819, 63.414850 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19144692.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397011, 63.419334 ], [ 10.397676, 63.419406 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19144697.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400313, 63.416646 ], [ 10.400431, 63.416609 ], [ 10.400682, 63.416197 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19144698.000000, "name": "Abels gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398767, 63.416473 ], [ 10.399521, 63.416558 ], [ 10.400313, 63.416646 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19145585.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397972, 63.417747 ], [ 10.398225, 63.417713 ], [ 10.400019, 63.417085 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19145587.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399521, 63.416558 ], [ 10.399787, 63.416093 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19145588.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411056, 63.414943 ], [ 10.411406, 63.414982 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19145589.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409920, 63.414728 ], [ 10.409009, 63.414862 ], [ 10.408329, 63.414976 ], [ 10.407756, 63.414853 ], [ 10.407632, 63.414833 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19145591.000000, "name": "Abels gate", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397839, 63.416422 ], [ 10.398737, 63.416521 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19145594.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406957, 63.415261 ], [ 10.407431, 63.415300 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19227534.000000, "name": "Dybdahls vei", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.415479, 63.413559 ], [ 10.415547, 63.413347 ], [ 10.415839, 63.413117 ], [ 10.416550, 63.412567 ], [ 10.416739, 63.412435 ], [ 10.416905, 63.412321 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 19794605.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411705, 63.414631 ], [ 10.411912, 63.414619 ], [ 10.411878, 63.414396 ], [ 10.411798, 63.414315 ], [ 10.411644, 63.414301 ], [ 10.411432, 63.414301 ], [ 10.410972, 63.414617 ], [ 10.411056, 63.414943 ], [ 10.411149, 63.415364 ], [ 10.411152, 63.415413 ], [ 10.411215, 63.415713 ], [ 10.411238, 63.416071 ], [ 10.411251, 63.416155 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 22649599.000000, "name": "", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.413313, 63.421916 ], [ 10.413714, 63.422009 ], [ 10.414116, 63.422095 ], [ 10.414183, 63.422116 ], [ 10.414587, 63.422217 ], [ 10.414865, 63.422316 ], [ 10.415084, 63.422406 ], [ 10.415466, 63.422605 ], [ 10.415647, 63.422733 ], [ 10.416037, 63.423050 ], [ 10.416306, 63.423252 ], [ 10.416336, 63.423305 ], [ 10.416371, 63.423486 ], [ 10.416468, 63.423589 ], [ 10.416949, 63.424062 ], [ 10.416963, 63.424099 ], [ 10.416958, 63.424133 ], [ 10.416884, 63.424256 ], [ 10.416893, 63.424342 ], [ 10.417029, 63.424476 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 22649600.000000, "name": "", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.414183, 63.422116 ], [ 10.414181, 63.422176 ], [ 10.414062, 63.422284 ], [ 10.413994, 63.422334 ], [ 10.414087, 63.422388 ], [ 10.415000, 63.422733 ], [ 10.415195, 63.422872 ], [ 10.415187, 63.423031 ], [ 10.415026, 63.423139 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 22661080.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402155, 63.417013 ], [ 10.401979, 63.416855 ], [ 10.401906, 63.416604 ], [ 10.401729, 63.416436 ], [ 10.401576, 63.416354 ], [ 10.401517, 63.416185 ], [ 10.401130, 63.415904 ], [ 10.400773, 63.415727 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 22889232.000000, "name": "Strindveien", "ref": "FV864", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403478, 63.413007 ], [ 10.404045, 63.413069 ], [ 10.404627, 63.413086 ], [ 10.405287, 63.413065 ], [ 10.406433, 63.412979 ], [ 10.408027, 63.412886 ], [ 10.408681, 63.412870 ], [ 10.409326, 63.412916 ], [ 10.410313, 63.413059 ], [ 10.411455, 63.413367 ], [ 10.411728, 63.413446 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 22889301.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404252, 63.419429 ], [ 10.404118, 63.419384 ], [ 10.403903, 63.419343 ], [ 10.403473, 63.419261 ], [ 10.403393, 63.419242 ], [ 10.403035, 63.419064 ], [ 10.403029, 63.418995 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 23175318.000000, "name": "Torbjørn Bratts veg", "ref": "FV860", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412196, 63.413382 ], [ 10.412521, 63.413268 ], [ 10.412815, 63.413200 ], [ 10.413982, 63.413002 ], [ 10.414539, 63.412843 ], [ 10.415561, 63.412375 ], [ 10.417565, 63.411357 ], [ 10.418167, 63.410992 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 23728208.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.394000, 63.420117 ], [ 10.391954, 63.419888 ], [ 10.393116, 63.419669 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 23945444.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395323, 63.414651 ], [ 10.395189, 63.414870 ], [ 10.394530, 63.415102 ], [ 10.394422, 63.415210 ], [ 10.394544, 63.415307 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 23945445.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395189, 63.414870 ], [ 10.395455, 63.414942 ], [ 10.395393, 63.415107 ], [ 10.395681, 63.415253 ], [ 10.395919, 63.415233 ], [ 10.396014, 63.415006 ], [ 10.395455, 63.414942 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 23945447.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.393431, 63.417536 ], [ 10.394046, 63.416770 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 23945448.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.394046, 63.416770 ], [ 10.393795, 63.416585 ], [ 10.394197, 63.415951 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 23945449.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.391981, 63.417207 ], [ 10.391413, 63.417921 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 23945451.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.393494, 63.419076 ], [ 10.393808, 63.418847 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 23945462.000000, "name": "Solborgvegen", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.396140, 63.413857 ], [ 10.396931, 63.414206 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 24172180.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407598, 63.415688 ], [ 10.407483, 63.415731 ], [ 10.407428, 63.415818 ], [ 10.407559, 63.416021 ], [ 10.407746, 63.416225 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 24172183.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410838, 63.415358 ], [ 10.411149, 63.415364 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 24585946.000000, "name": "Odd Brochmanns veg", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.419645, 63.414714 ], [ 10.419001, 63.414880 ], [ 10.418577, 63.414919 ], [ 10.418058, 63.414893 ], [ 10.417722, 63.414820 ], [ 10.417470, 63.414663 ], [ 10.417414, 63.414622 ], [ 10.417352, 63.414540 ], [ 10.417158, 63.414361 ], [ 10.417057, 63.414239 ], [ 10.416924, 63.414111 ], [ 10.416683, 63.413970 ], [ 10.416374, 63.413903 ], [ 10.416155, 63.413898 ], [ 10.415674, 63.413893 ], [ 10.415383, 63.413874 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 24603063.000000, "name": "Sem Sælands vei", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402155, 63.417013 ], [ 10.401975, 63.417190 ], [ 10.401983, 63.417252 ], [ 10.402049, 63.417299 ], [ 10.402453, 63.417381 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 24603064.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400797, 63.413138 ], [ 10.399978, 63.413096 ], [ 10.399623, 63.413667 ], [ 10.399312, 63.414257 ], [ 10.399173, 63.414577 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 24603065.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399173, 63.414577 ], [ 10.399847, 63.414659 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 24603066.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.393668, 63.421795 ], [ 10.393663, 63.421714 ], [ 10.393699, 63.421261 ], [ 10.393513, 63.421159 ], [ 10.393526, 63.421093 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312119.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400431, 63.416609 ], [ 10.400702, 63.416595 ], [ 10.401209, 63.416531 ], [ 10.401729, 63.416436 ], [ 10.401848, 63.416429 ], [ 10.402236, 63.416371 ], [ 10.402824, 63.416206 ], [ 10.402975, 63.416204 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312120.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402309, 63.415678 ], [ 10.402114, 63.415841 ], [ 10.402153, 63.416108 ], [ 10.401910, 63.416284 ], [ 10.401729, 63.416436 ], [ 10.401528, 63.416567 ], [ 10.401091, 63.416759 ], [ 10.400741, 63.417098 ], [ 10.400661, 63.417310 ], [ 10.400501, 63.417485 ], [ 10.400229, 63.417647 ], [ 10.400072, 63.417678 ], [ 10.399642, 63.417718 ], [ 10.399236, 63.417758 ], [ 10.398689, 63.417844 ], [ 10.398544, 63.417902 ], [ 10.398438, 63.418110 ], [ 10.398325, 63.418212 ], [ 10.398133, 63.418305 ], [ 10.397828, 63.418394 ], [ 10.397603, 63.418396 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312121.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397874, 63.417892 ], [ 10.397953, 63.417944 ], [ 10.397938, 63.418099 ], [ 10.397846, 63.418283 ], [ 10.397828, 63.418394 ], [ 10.397809, 63.418443 ], [ 10.397839, 63.418545 ], [ 10.397896, 63.418648 ], [ 10.397975, 63.418694 ], [ 10.398066, 63.418718 ], [ 10.398570, 63.418818 ], [ 10.398937, 63.418855 ], [ 10.399188, 63.418788 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312122.000000, "name": "O. S. Bragstads plass", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400938, 63.419437 ], [ 10.400821, 63.419335 ], [ 10.400878, 63.419235 ], [ 10.401191, 63.418933 ], [ 10.401209, 63.418915 ], [ 10.401222, 63.418903 ], [ 10.400980, 63.418857 ], [ 10.400068, 63.418781 ], [ 10.399579, 63.418761 ], [ 10.399532, 63.418557 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312123.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400313, 63.416646 ], [ 10.400631, 63.416691 ], [ 10.401091, 63.416759 ], [ 10.401336, 63.416801 ], [ 10.401503, 63.416819 ], [ 10.401687, 63.416871 ], [ 10.401979, 63.416855 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312124.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404481, 63.420533 ], [ 10.402537, 63.420582 ], [ 10.401996, 63.420468 ], [ 10.401881, 63.420445 ], [ 10.401495, 63.420369 ], [ 10.401369, 63.420344 ], [ 10.401237, 63.420317 ], [ 10.401123, 63.420294 ], [ 10.400979, 63.420265 ], [ 10.400853, 63.420240 ], [ 10.400665, 63.420203 ], [ 10.400343, 63.420138 ], [ 10.400176, 63.420103 ], [ 10.399674, 63.419992 ], [ 10.399496, 63.419874 ], [ 10.399322, 63.419712 ], [ 10.399213, 63.419492 ], [ 10.399111, 63.419316 ], [ 10.399046, 63.419268 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312125.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403697, 63.420189 ], [ 10.403157, 63.420306 ], [ 10.402923, 63.420331 ], [ 10.402458, 63.420344 ], [ 10.402193, 63.420318 ], [ 10.402009, 63.420271 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312126.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403360, 63.421113 ], [ 10.403024, 63.420954 ], [ 10.401731, 63.420883 ], [ 10.401580, 63.420859 ], [ 10.401458, 63.420835 ], [ 10.401087, 63.420763 ], [ 10.400954, 63.420738 ], [ 10.401369, 63.420344 ], [ 10.401682, 63.420041 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312127.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401017, 63.419853 ], [ 10.400933, 63.419963 ], [ 10.400796, 63.420087 ], [ 10.400493, 63.420024 ], [ 10.400551, 63.419969 ], [ 10.400616, 63.419908 ], [ 10.400700, 63.419809 ], [ 10.400943, 63.419774 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312128.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401897, 63.420029 ], [ 10.401790, 63.420151 ], [ 10.401672, 63.420266 ], [ 10.401948, 63.420323 ], [ 10.402009, 63.420271 ], [ 10.402064, 63.420208 ], [ 10.402153, 63.420103 ], [ 10.402130, 63.420013 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312129.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400551, 63.419969 ], [ 10.400377, 63.419933 ], [ 10.400071, 63.419871 ], [ 10.399835, 63.419741 ], [ 10.399669, 63.419571 ], [ 10.399524, 63.419305 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312130.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398570, 63.418818 ], [ 10.398521, 63.419231 ], [ 10.399046, 63.419268 ], [ 10.399524, 63.419305 ], [ 10.400217, 63.419366 ], [ 10.400533, 63.419421 ], [ 10.400704, 63.419463 ], [ 10.400636, 63.419608 ], [ 10.400700, 63.419809 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25312131.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402153, 63.420103 ], [ 10.402491, 63.420054 ], [ 10.402805, 63.419893 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714138.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397888, 63.419770 ], [ 10.398082, 63.419834 ], [ 10.398344, 63.419952 ], [ 10.398785, 63.420184 ], [ 10.399210, 63.420352 ], [ 10.399761, 63.420506 ], [ 10.399924, 63.420538 ], [ 10.400276, 63.420606 ], [ 10.400449, 63.420640 ], [ 10.400853, 63.420240 ], [ 10.401161, 63.419935 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714139.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399674, 63.419992 ], [ 10.399355, 63.419999 ], [ 10.398988, 63.420008 ], [ 10.398772, 63.420000 ], [ 10.398344, 63.419952 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714140.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400245, 63.420038 ], [ 10.400176, 63.420103 ], [ 10.399761, 63.420506 ], [ 10.399630, 63.420611 ], [ 10.399424, 63.420684 ], [ 10.399054, 63.420755 ], [ 10.398526, 63.420823 ], [ 10.398283, 63.420916 ], [ 10.398003, 63.421062 ], [ 10.397856, 63.421195 ], [ 10.397723, 63.421292 ], [ 10.397601, 63.421410 ], [ 10.397306, 63.421734 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714141.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397179, 63.420698 ], [ 10.397506, 63.420956 ], [ 10.397856, 63.421195 ], [ 10.398083, 63.421307 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714142.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397506, 63.420956 ], [ 10.397850, 63.421015 ], [ 10.398003, 63.421062 ], [ 10.398119, 63.421152 ], [ 10.398145, 63.421242 ], [ 10.398083, 63.421307 ], [ 10.397987, 63.421384 ], [ 10.397816, 63.421411 ], [ 10.397601, 63.421410 ], [ 10.397427, 63.421348 ], [ 10.397263, 63.421263 ], [ 10.397522, 63.421164 ], [ 10.397506, 63.420956 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714143.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.394625, 63.422135 ], [ 10.395054, 63.422135 ], [ 10.395765, 63.422014 ], [ 10.397306, 63.421734 ], [ 10.398779, 63.421482 ], [ 10.398898, 63.421457 ], [ 10.398980, 63.421436 ], [ 10.399435, 63.421280 ], [ 10.399741, 63.421159 ], [ 10.400180, 63.420956 ], [ 10.400568, 63.420663 ], [ 10.400979, 63.420265 ], [ 10.401253, 63.420002 ], [ 10.401161, 63.419935 ], [ 10.401017, 63.419853 ], [ 10.400943, 63.419774 ], [ 10.400869, 63.419659 ], [ 10.400881, 63.419498 ], [ 10.400938, 63.419437 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714144.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.394625, 63.422135 ], [ 10.394929, 63.422242 ], [ 10.395767, 63.422180 ], [ 10.396870, 63.421982 ], [ 10.398959, 63.421604 ], [ 10.399567, 63.421436 ], [ 10.399873, 63.421315 ], [ 10.400206, 63.421164 ], [ 10.400505, 63.420996 ], [ 10.400835, 63.420715 ], [ 10.401237, 63.420317 ], [ 10.401512, 63.420050 ], [ 10.401682, 63.420041 ], [ 10.401897, 63.420029 ], [ 10.402130, 63.420013 ], [ 10.402344, 63.419968 ], [ 10.402589, 63.419856 ], [ 10.402732, 63.419788 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714145.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400449, 63.420640 ], [ 10.400568, 63.420663 ], [ 10.400720, 63.420692 ], [ 10.400835, 63.420715 ], [ 10.400954, 63.420738 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714146.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401087, 63.420763 ], [ 10.401495, 63.420369 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714147.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401458, 63.420835 ], [ 10.401881, 63.420445 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714148.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401580, 63.420859 ], [ 10.401996, 63.420468 ], [ 10.402071, 63.420397 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714149.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400276, 63.420606 ], [ 10.400665, 63.420203 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714150.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399924, 63.420538 ], [ 10.400343, 63.420138 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714151.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400245, 63.420038 ], [ 10.400377, 63.419933 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714152.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402071, 63.420397 ], [ 10.402193, 63.420318 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714154.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402537, 63.420582 ], [ 10.403024, 63.420954 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25714184.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399547, 63.418090 ], [ 10.399573, 63.418048 ], [ 10.399714, 63.418010 ], [ 10.399752, 63.417929 ], [ 10.399868, 63.417889 ], [ 10.400072, 63.417678 ], [ 10.400084, 63.417619 ], [ 10.399943, 63.417464 ], [ 10.399981, 63.417242 ], [ 10.400019, 63.417085 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25722682.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400616, 63.419908 ], [ 10.400933, 63.419963 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 25722683.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402064, 63.420208 ], [ 10.401790, 63.420151 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 29505715.000000, "name": "Schøyens gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400313, 63.416646 ], [ 10.400019, 63.417085 ], [ 10.398505, 63.416912 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 30670372.000000, "name": "Elgeseter gate", "ref": "E6", "type": "trunk", "oneway": 0, "bridge": 0, "maxspeed": 50 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395053, 63.421282 ], [ 10.395131, 63.421136 ], [ 10.395432, 63.420544 ], [ 10.395512, 63.420400 ], [ 10.395665, 63.420126 ], [ 10.395813, 63.419869 ], [ 10.396141, 63.419217 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 32675981.000000, "name": "Dybdahls vei", "ref": "FV864", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.415111, 63.413563 ], [ 10.415479, 63.413559 ], [ 10.416665, 63.413556 ], [ 10.417452, 63.413574 ], [ 10.418575, 63.413600 ], [ 10.419426, 63.413750 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 33718247.000000, "name": "Elgeseter gate", "ref": "E6", "type": "trunk", "oneway": 0, "bridge": 0, "maxspeed": 50 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.394625, 63.422135 ], [ 10.395053, 63.421282 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 34927632.000000, "name": "Strindveien", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411840, 63.416729 ], [ 10.412357, 63.417560 ], [ 10.413232, 63.418577 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 35819457.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402453, 63.417381 ], [ 10.402708, 63.417122 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 35838068.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399146, 63.415836 ], [ 10.399485, 63.415876 ], [ 10.399758, 63.415908 ], [ 10.400048, 63.415942 ], [ 10.400342, 63.415976 ], [ 10.400610, 63.416008 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 35838069.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400048, 63.415942 ], [ 10.400349, 63.415452 ], [ 10.400520, 63.415175 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 35838071.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399485, 63.415876 ], [ 10.399792, 63.415389 ], [ 10.399892, 63.415230 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 35838073.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399758, 63.415908 ], [ 10.400056, 63.415419 ], [ 10.400187, 63.415204 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 35838074.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400342, 63.415976 ], [ 10.400634, 63.415485 ], [ 10.400835, 63.415148 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 35838075.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400610, 63.416008 ], [ 10.400773, 63.415727 ], [ 10.400896, 63.415515 ], [ 10.401124, 63.415123 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36839431.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409642, 63.414958 ], [ 10.409726, 63.414954 ], [ 10.410501, 63.414913 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36839524.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409920, 63.414728 ], [ 10.410662, 63.414577 ], [ 10.410834, 63.414453 ], [ 10.410972, 63.414318 ], [ 10.410243, 63.414170 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36839852.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408357, 63.413913 ], [ 10.408265, 63.414003 ], [ 10.408190, 63.414072 ], [ 10.408084, 63.414205 ], [ 10.408011, 63.414283 ], [ 10.407954, 63.414345 ], [ 10.407924, 63.414339 ], [ 10.407828, 63.414321 ], [ 10.407499, 63.414254 ], [ 10.407499, 63.414254 ], [ 10.407628, 63.414113 ], [ 10.407630, 63.414111 ], [ 10.407860, 63.413859 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36839854.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407499, 63.414254 ], [ 10.406542, 63.414068 ], [ 10.406452, 63.414031 ], [ 10.406415, 63.413984 ], [ 10.406474, 63.413927 ], [ 10.406577, 63.413903 ], [ 10.406668, 63.413913 ], [ 10.407630, 63.414111 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36846914.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407828, 63.414321 ], [ 10.407456, 63.414729 ], [ 10.407190, 63.415022 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36847209.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408011, 63.414283 ], [ 10.408111, 63.414304 ], [ 10.408884, 63.414465 ], [ 10.409291, 63.414546 ], [ 10.409163, 63.414688 ], [ 10.408927, 63.414835 ], [ 10.409009, 63.414862 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36851172.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407924, 63.414339 ], [ 10.407551, 63.414733 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36876062.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401458, 63.418605 ], [ 10.401668, 63.418649 ], [ 10.402050, 63.418727 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36876326.000000, "name": "", "ref": "", "type": "path", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400878, 63.419235 ], [ 10.400847, 63.419210 ], [ 10.400353, 63.418827 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36901974.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404405, 63.416324 ], [ 10.404283, 63.416447 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36901975.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404283, 63.416447 ], [ 10.404211, 63.416519 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36901976.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404211, 63.416519 ], [ 10.404179, 63.416552 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36901977.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404179, 63.416552 ], [ 10.404156, 63.416575 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36901979.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404156, 63.416575 ], [ 10.404334, 63.416613 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36901980.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404334, 63.416613 ], [ 10.404087, 63.416859 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36901981.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404156, 63.416575 ], [ 10.403911, 63.416822 ], [ 10.404087, 63.416859 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36902096.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403805, 63.417465 ], [ 10.403316, 63.417364 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36906433.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404181, 63.416425 ], [ 10.403789, 63.416822 ], [ 10.403851, 63.416834 ], [ 10.403911, 63.416822 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36906436.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403851, 63.416834 ], [ 10.403586, 63.417096 ], [ 10.403316, 63.417364 ], [ 10.403210, 63.417469 ], [ 10.403114, 63.417564 ], [ 10.403022, 63.417656 ], [ 10.402921, 63.417756 ], [ 10.402595, 63.418079 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36906593.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404944, 63.416585 ], [ 10.405042, 63.416482 ], [ 10.405410, 63.416103 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36906882.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410347, 63.416198 ], [ 10.410331, 63.416111 ], [ 10.410241, 63.415653 ], [ 10.410590, 63.415634 ], [ 10.410712, 63.416097 ], [ 10.410728, 63.416181 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36907129.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410773, 63.415587 ], [ 10.411152, 63.415413 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36921239.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406567, 63.416423 ], [ 10.406250, 63.416730 ], [ 10.406146, 63.416832 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36921243.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410353, 63.416731 ], [ 10.410363, 63.416676 ], [ 10.410292, 63.416273 ], [ 10.410282, 63.416201 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36921244.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405597, 63.416719 ], [ 10.405716, 63.416599 ], [ 10.406073, 63.416238 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 36930053.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404502, 63.417694 ], [ 10.404382, 63.417669 ], [ 10.404283, 63.417769 ], [ 10.403992, 63.417710 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37332513.000000, "name": "", "ref": "", "type": "path", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402643, 63.418218 ], [ 10.402774, 63.418604 ], [ 10.402929, 63.418975 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37332514.000000, "name": "", "ref": "", "type": "path", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402089, 63.418767 ], [ 10.402774, 63.418604 ], [ 10.403638, 63.418392 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37333247.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403224, 63.416132 ], [ 10.403208, 63.416108 ], [ 10.403193, 63.416087 ], [ 10.403178, 63.415985 ], [ 10.403333, 63.415801 ], [ 10.403481, 63.415692 ], [ 10.403743, 63.415590 ], [ 10.404209, 63.415670 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37358675.000000, "name": "", "ref": "", "type": "pedestrian", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403595, 63.416838 ], [ 10.403681, 63.416756 ], [ 10.403404, 63.416699 ], [ 10.403369, 63.416734 ], [ 10.403320, 63.416782 ], [ 10.403595, 63.416838 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37358676.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403789, 63.416822 ], [ 10.403662, 63.416796 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37358677.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403662, 63.416796 ], [ 10.403369, 63.416734 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37363526.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404852, 63.417240 ], [ 10.404933, 63.417256 ], [ 10.405662, 63.417403 ], [ 10.405744, 63.417446 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37363527.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404852, 63.417240 ], [ 10.405137, 63.416964 ], [ 10.405418, 63.416682 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37363528.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405744, 63.417446 ], [ 10.405906, 63.417290 ], [ 10.405906, 63.417223 ], [ 10.406192, 63.416941 ], [ 10.406277, 63.416858 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37369367.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405137, 63.416964 ], [ 10.405240, 63.416928 ], [ 10.405388, 63.416913 ], [ 10.405522, 63.416916 ], [ 10.405593, 63.416924 ], [ 10.405632, 63.416907 ], [ 10.405679, 63.416862 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37369596.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405904, 63.416912 ], [ 10.405959, 63.416859 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37369597.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405959, 63.416859 ], [ 10.406014, 63.416805 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37369598.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405679, 63.416862 ], [ 10.405731, 63.416812 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37369599.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405731, 63.416812 ], [ 10.405787, 63.416758 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37409412.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405593, 63.416924 ], [ 10.405790, 63.416955 ], [ 10.405850, 63.416951 ], [ 10.405904, 63.416912 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37448870.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408464, 63.416940 ], [ 10.407959, 63.416835 ], [ 10.408087, 63.416675 ], [ 10.408050, 63.416582 ], [ 10.407987, 63.416570 ], [ 10.407837, 63.416534 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37518743.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408936, 63.416795 ], [ 10.408556, 63.416755 ], [ 10.408453, 63.416347 ], [ 10.408436, 63.416277 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37519089.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405855, 63.414546 ], [ 10.406240, 63.414606 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37519816.000000, "name": "Sem Sælands vei", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402155, 63.417013 ], [ 10.401804, 63.417117 ], [ 10.401638, 63.417199 ], [ 10.401562, 63.417270 ], [ 10.401523, 63.417352 ], [ 10.401557, 63.417422 ], [ 10.401676, 63.417481 ], [ 10.401829, 63.417532 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37519859.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401804, 63.417117 ], [ 10.401797, 63.417184 ], [ 10.401770, 63.417251 ], [ 10.401746, 63.417322 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37578693.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403560, 63.416089 ], [ 10.403875, 63.415769 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37578696.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403618, 63.416100 ], [ 10.403560, 63.416089 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37578698.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403618, 63.416100 ], [ 10.403548, 63.416179 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37578718.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404608, 63.415951 ], [ 10.404655, 63.415903 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37578719.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404755, 63.415979 ], [ 10.404802, 63.415933 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37578724.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404655, 63.415903 ], [ 10.404802, 63.415933 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37694027.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403423, 63.417063 ], [ 10.403376, 63.417053 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37694028.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403423, 63.417063 ], [ 10.403586, 63.417096 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37695356.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402178, 63.418055 ], [ 10.402633, 63.418155 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37695406.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400938, 63.419437 ], [ 10.400990, 63.419387 ], [ 10.400941, 63.419353 ], [ 10.400925, 63.419305 ], [ 10.401297, 63.418926 ], [ 10.401909, 63.418830 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37695407.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403035, 63.419064 ], [ 10.402752, 63.419350 ], [ 10.402650, 63.419454 ], [ 10.402713, 63.419466 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37696603.000000, "name": "Richard Birkelands vei", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411550, 63.416143 ], [ 10.411251, 63.416155 ], [ 10.410728, 63.416181 ], [ 10.410347, 63.416198 ], [ 10.410282, 63.416201 ], [ 10.409787, 63.416220 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37730230.000000, "name": "", "ref": "", "type": "track", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405031, 63.419977 ], [ 10.405720, 63.419674 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37751837.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401297, 63.418926 ], [ 10.401191, 63.418933 ], [ 10.401048, 63.418908 ], [ 10.400969, 63.418880 ], [ 10.400353, 63.418827 ], [ 10.399968, 63.418798 ], [ 10.399643, 63.418787 ], [ 10.399534, 63.418791 ], [ 10.399468, 63.418796 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37751838.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401222, 63.418903 ], [ 10.401347, 63.418783 ], [ 10.400265, 63.418572 ], [ 10.400200, 63.418641 ], [ 10.400068, 63.418781 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37811916.000000, "name": "Kolbjørn Hejes vei", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404046, 63.418405 ], [ 10.404276, 63.418177 ], [ 10.404374, 63.418081 ], [ 10.404509, 63.417948 ], [ 10.404636, 63.417872 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37869190.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411242, 63.416232 ], [ 10.410292, 63.416273 ], [ 10.409807, 63.416301 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37870217.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401480, 63.419941 ], [ 10.401552, 63.419872 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37870476.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400821, 63.419335 ], [ 10.400684, 63.419337 ], [ 10.400592, 63.419335 ], [ 10.400595, 63.419306 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37870923.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403473, 63.419261 ], [ 10.403098, 63.419640 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37870924.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403903, 63.419343 ], [ 10.403721, 63.419523 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37892474.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404925, 63.418584 ], [ 10.404966, 63.418542 ], [ 10.405025, 63.418482 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37893866.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408646, 63.416976 ], [ 10.408464, 63.416940 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37898293.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407140, 63.416721 ], [ 10.407086, 63.416777 ], [ 10.406703, 63.416824 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37898296.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407321, 63.416447 ], [ 10.407365, 63.416487 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37898298.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407619, 63.416244 ], [ 10.407576, 63.416268 ], [ 10.407009, 63.416151 ], [ 10.406810, 63.416178 ], [ 10.405092, 63.415835 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37898379.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409835, 63.415396 ], [ 10.409734, 63.415289 ], [ 10.409583, 63.415228 ], [ 10.409689, 63.415060 ], [ 10.409726, 63.414954 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37898380.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409458, 63.415524 ], [ 10.409433, 63.415356 ], [ 10.409583, 63.415228 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37899611.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407746, 63.416225 ], [ 10.407867, 63.416020 ], [ 10.407815, 63.415790 ], [ 10.407805, 63.415689 ], [ 10.407875, 63.415643 ], [ 10.408772, 63.415594 ], [ 10.409587, 63.415557 ], [ 10.409637, 63.415493 ], [ 10.409721, 63.415437 ], [ 10.409835, 63.415396 ], [ 10.410838, 63.415358 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37927814.000000, "name": "Høgskoleveien", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400938, 63.419437 ], [ 10.401113, 63.419471 ], [ 10.401817, 63.419609 ], [ 10.402520, 63.419746 ], [ 10.402732, 63.419788 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37934633.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399354, 63.415488 ], [ 10.398520, 63.415391 ], [ 10.398400, 63.415626 ], [ 10.399220, 63.415713 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37935360.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400704, 63.419463 ], [ 10.400881, 63.419498 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37935594.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404963, 63.421429 ], [ 10.404842, 63.421386 ], [ 10.404769, 63.421287 ], [ 10.404748, 63.421280 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37935595.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404558, 63.421241 ], [ 10.404459, 63.421208 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37935596.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404459, 63.421208 ], [ 10.404371, 63.421161 ], [ 10.404337, 63.421130 ], [ 10.404280, 63.421098 ], [ 10.404172, 63.421054 ], [ 10.404259, 63.421006 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37935989.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404259, 63.421006 ], [ 10.404542, 63.420857 ], [ 10.404696, 63.420775 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37935992.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404748, 63.421280 ], [ 10.404639, 63.421254 ], [ 10.404558, 63.421241 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37936056.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407632, 63.414833 ], [ 10.407654, 63.414853 ], [ 10.407658, 63.414878 ], [ 10.407643, 63.414899 ], [ 10.407612, 63.414918 ], [ 10.407570, 63.414929 ], [ 10.407506, 63.414933 ], [ 10.407459, 63.414928 ], [ 10.407406, 63.414909 ], [ 10.407383, 63.414890 ], [ 10.407397, 63.414841 ], [ 10.407392, 63.414841 ], [ 10.407432, 63.414820 ], [ 10.407476, 63.414810 ], [ 10.407533, 63.414807 ], [ 10.407580, 63.414813 ], [ 10.407632, 63.414833 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37936057.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407397, 63.414841 ], [ 10.406957, 63.415261 ], [ 10.406731, 63.415213 ], [ 10.406455, 63.415153 ], [ 10.405596, 63.414979 ], [ 10.405432, 63.414971 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37936063.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404696, 63.420775 ], [ 10.404845, 63.420670 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37936064.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404845, 63.420670 ], [ 10.404593, 63.420599 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37936065.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404593, 63.420599 ], [ 10.404481, 63.420533 ], [ 10.403697, 63.420189 ], [ 10.403074, 63.419903 ], [ 10.402953, 63.419919 ], [ 10.402805, 63.419893 ], [ 10.402589, 63.419856 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37971577.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404542, 63.420857 ], [ 10.404284, 63.420751 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37971971.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405031, 63.421394 ], [ 10.404757, 63.421290 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37971972.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405059, 63.421271 ], [ 10.404899, 63.421211 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37972247.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404287, 63.421172 ], [ 10.403844, 63.420985 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37972250.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404616, 63.421581 ], [ 10.404439, 63.421338 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37972252.000000, "name": "", "ref": "", "type": "path", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404439, 63.421338 ], [ 10.404416, 63.421311 ], [ 10.404364, 63.421280 ], [ 10.404321, 63.421245 ], [ 10.404299, 63.421218 ], [ 10.404287, 63.421172 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37977990.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410834, 63.414453 ], [ 10.410330, 63.414357 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37977991.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410662, 63.414577 ], [ 10.410309, 63.414512 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 37978179.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407630, 63.414111 ], [ 10.408084, 63.414205 ], [ 10.409191, 63.414433 ], [ 10.409329, 63.414440 ], [ 10.409404, 63.414412 ], [ 10.409445, 63.414349 ], [ 10.409341, 63.414309 ], [ 10.408190, 63.414072 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 38031144.000000, "name": "Erling Skjalgssons gate", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.389998, 63.419538 ], [ 10.392006, 63.419753 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 38089869.000000, "name": "Olav Kyrres gate", "ref": "", "type": "tertiary", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.389208, 63.420441 ], [ 10.390958, 63.420649 ], [ 10.391438, 63.420706 ], [ 10.393019, 63.420879 ], [ 10.393303, 63.420919 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 38089870.000000, "name": "Edvard Griegs gate", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.391438, 63.420706 ], [ 10.391954, 63.419888 ], [ 10.392006, 63.419753 ], [ 10.392589, 63.418674 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 38316531.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402858, 63.417395 ], [ 10.402883, 63.417365 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 38569034.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411965, 63.413325 ], [ 10.412462, 63.413188 ], [ 10.413342, 63.412998 ], [ 10.413841, 63.412908 ], [ 10.413964, 63.412876 ], [ 10.414390, 63.412754 ], [ 10.415373, 63.412302 ], [ 10.416299, 63.411860 ], [ 10.417116, 63.411422 ], [ 10.418225, 63.410810 ], [ 10.418807, 63.410294 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 38569037.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.414218, 63.412617 ], [ 10.413964, 63.412876 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41068782.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.391885, 63.421644 ], [ 10.392298, 63.421799 ], [ 10.392804, 63.421718 ], [ 10.393663, 63.421714 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41361082.000000, "name": "Elgeseter gate", "ref": "E6", "type": "trunk", "oneway": 0, "bridge": 0, "maxspeed": 50 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.394408, 63.422741 ], [ 10.394625, 63.422135 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41534227.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407575, 63.415310 ], [ 10.407506, 63.414933 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41558462.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408608, 63.413838 ], [ 10.409708, 63.413945 ], [ 10.409749, 63.414194 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41700285.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407421, 63.415969 ], [ 10.407284, 63.415946 ], [ 10.407355, 63.415611 ], [ 10.407439, 63.415523 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41700286.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406931, 63.415599 ], [ 10.407169, 63.415363 ], [ 10.407330, 63.415394 ], [ 10.407431, 63.415300 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41745699.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407431, 63.415300 ], [ 10.407531, 63.415318 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41745700.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407531, 63.415318 ], [ 10.407575, 63.415310 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41745703.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405247, 63.415463 ], [ 10.405343, 63.415354 ], [ 10.405521, 63.415171 ], [ 10.405713, 63.415051 ], [ 10.406421, 63.415193 ], [ 10.406455, 63.415153 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41745704.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404304, 63.416303 ], [ 10.404405, 63.416324 ], [ 10.404806, 63.416408 ], [ 10.404862, 63.416444 ], [ 10.405042, 63.416482 ], [ 10.405451, 63.416567 ], [ 10.405540, 63.416562 ], [ 10.405716, 63.416599 ], [ 10.406120, 63.416683 ], [ 10.406173, 63.416714 ], [ 10.406250, 63.416730 ], [ 10.406703, 63.416824 ], [ 10.407183, 63.416923 ], [ 10.407396, 63.416967 ], [ 10.407501, 63.416989 ], [ 10.407676, 63.417025 ], [ 10.407735, 63.416959 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41745724.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407575, 63.415310 ], [ 10.409620, 63.414895 ], [ 10.409800, 63.414854 ], [ 10.410972, 63.414617 ], [ 10.411251, 63.414619 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41864864.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406865, 63.414196 ], [ 10.406654, 63.414394 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41864865.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407551, 63.414733 ], [ 10.407794, 63.414776 ], [ 10.407784, 63.414788 ], [ 10.407625, 63.414760 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41870721.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406582, 63.414474 ], [ 10.406240, 63.414606 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41870722.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406654, 63.414394 ], [ 10.406582, 63.414474 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 41871111.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407625, 63.414760 ], [ 10.407580, 63.414813 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42010118.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405596, 63.414979 ], [ 10.405519, 63.415127 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42507474.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407439, 63.415523 ], [ 10.407534, 63.415423 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42507475.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407531, 63.415318 ], [ 10.407624, 63.415334 ], [ 10.407534, 63.415423 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42691776.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409396, 63.416321 ], [ 10.408710, 63.416349 ], [ 10.408453, 63.416347 ], [ 10.408201, 63.416383 ], [ 10.408095, 63.416462 ], [ 10.407987, 63.416570 ], [ 10.407863, 63.416692 ], [ 10.407768, 63.416717 ], [ 10.407501, 63.416989 ], [ 10.407318, 63.417163 ], [ 10.407257, 63.417195 ], [ 10.406419, 63.418019 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42691777.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409807, 63.416301 ], [ 10.409396, 63.416321 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42691779.000000, "name": "Richard Birkelands vei", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409787, 63.416220 ], [ 10.409309, 63.416237 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42691780.000000, "name": "Richard Birkelands vei", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409309, 63.416237 ], [ 10.408436, 63.416277 ], [ 10.408117, 63.416324 ], [ 10.407977, 63.416402 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42799114.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404304, 63.416303 ], [ 10.403414, 63.416117 ], [ 10.403282, 63.416103 ], [ 10.403208, 63.416108 ], [ 10.403166, 63.416111 ], [ 10.403047, 63.416137 ], [ 10.402953, 63.416170 ], [ 10.402774, 63.416091 ], [ 10.402559, 63.415946 ], [ 10.402404, 63.415742 ], [ 10.402309, 63.415678 ], [ 10.401666, 63.415508 ], [ 10.401495, 63.415489 ], [ 10.400997, 63.415526 ], [ 10.400896, 63.415515 ], [ 10.400634, 63.415485 ], [ 10.400349, 63.415452 ], [ 10.400056, 63.415419 ], [ 10.399792, 63.415389 ], [ 10.399437, 63.415348 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42859017.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401209, 63.418915 ], [ 10.401478, 63.418885 ], [ 10.401768, 63.418840 ], [ 10.401798, 63.418805 ], [ 10.401782, 63.418776 ], [ 10.401674, 63.418759 ], [ 10.401605, 63.418775 ], [ 10.401478, 63.418885 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42859018.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401975, 63.418801 ], [ 10.401592, 63.418721 ], [ 10.401668, 63.418649 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42859309.000000, "name": "", "ref": "", "type": "path", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403533, 63.419841 ], [ 10.403312, 63.419595 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42859310.000000, "name": "O. S. Bragstads plass", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399579, 63.418761 ], [ 10.399534, 63.418791 ], [ 10.399471, 63.418880 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 42859312.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403393, 63.419242 ], [ 10.403008, 63.419624 ], [ 10.402877, 63.419735 ], [ 10.402790, 63.419752 ], [ 10.402732, 63.419788 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43392070.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397239, 63.413584 ], [ 10.398169, 63.413660 ], [ 10.398002, 63.414083 ], [ 10.398476, 63.414107 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43392432.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397273, 63.413990 ], [ 10.396848, 63.414793 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43392469.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398274, 63.413646 ], [ 10.397259, 63.413565 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43394363.000000, "name": "Singsakerbakken", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400885, 63.422262 ], [ 10.401310, 63.422110 ], [ 10.401800, 63.421996 ], [ 10.402490, 63.421860 ], [ 10.403152, 63.421798 ], [ 10.404616, 63.421581 ], [ 10.404657, 63.421575 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43394364.000000, "name": "Singsakerbakken", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400427, 63.421950 ], [ 10.400260, 63.421831 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43838097.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407851, 63.413328 ], [ 10.407765, 63.413316 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43838840.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410265, 63.413120 ], [ 10.410211, 63.413177 ], [ 10.410171, 63.413256 ], [ 10.409993, 63.413568 ], [ 10.410305, 63.413607 ], [ 10.410599, 63.413640 ], [ 10.410912, 63.413678 ], [ 10.411228, 63.413714 ], [ 10.411342, 63.413723 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43838862.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409385, 63.413518 ], [ 10.409576, 63.413205 ], [ 10.409688, 63.413191 ], [ 10.410171, 63.413256 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43839200.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410214, 63.413773 ], [ 10.410305, 63.413607 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43839204.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410499, 63.413808 ], [ 10.410599, 63.413640 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43839206.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410802, 63.413849 ], [ 10.410912, 63.413678 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43839207.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411116, 63.413892 ], [ 10.411228, 63.413714 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43919500.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407284, 63.415946 ], [ 10.407215, 63.415935 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43919501.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407531, 63.415318 ], [ 10.407479, 63.415376 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 43943207.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401478, 63.418885 ], [ 10.401768, 63.418840 ], [ 10.401798, 63.418805 ], [ 10.401782, 63.418776 ], [ 10.401674, 63.418759 ], [ 10.401605, 63.418775 ], [ 10.401478, 63.418885 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 44052560.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404087, 63.416859 ], [ 10.404421, 63.416929 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 44052561.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404852, 63.417240 ], [ 10.404469, 63.417162 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 44052562.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407468, 63.416029 ], [ 10.407386, 63.416110 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 44110545.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.396434, 63.415817 ], [ 10.396767, 63.415152 ], [ 10.396950, 63.414802 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 44110557.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.396922, 63.415163 ], [ 10.396767, 63.415152 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 44110685.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403016, 63.416787 ], [ 10.402751, 63.417076 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 44110821.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402751, 63.417076 ], [ 10.402708, 63.417122 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 45347408.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397900, 63.415738 ], [ 10.398189, 63.415665 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 48134618.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406741, 63.415196 ], [ 10.406731, 63.415213 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 51564471.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408283, 63.412537 ], [ 10.407587, 63.412781 ], [ 10.407341, 63.412810 ], [ 10.407170, 63.412856 ], [ 10.406670, 63.412912 ], [ 10.405990, 63.412966 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 51564472.000000, "name": "Lars Onsagers veg", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.414261, 63.414304 ], [ 10.414608, 63.414389 ], [ 10.415307, 63.414522 ], [ 10.416086, 63.414643 ], [ 10.416202, 63.414634 ], [ 10.416371, 63.414662 ], [ 10.416574, 63.414697 ], [ 10.416724, 63.414709 ], [ 10.417038, 63.414681 ], [ 10.417470, 63.414663 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 51564473.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412736, 63.413552 ], [ 10.413521, 63.413508 ], [ 10.414792, 63.413511 ], [ 10.416213, 63.413505 ], [ 10.416555, 63.413479 ], [ 10.416967, 63.413475 ], [ 10.417247, 63.413510 ], [ 10.418569, 63.413538 ], [ 10.419506, 63.413692 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 51564474.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.414786, 63.413614 ], [ 10.414593, 63.413613 ], [ 10.414193, 63.413614 ], [ 10.413963, 63.413613 ], [ 10.413797, 63.413604 ], [ 10.413566, 63.413589 ], [ 10.413163, 63.413615 ], [ 10.412734, 63.413666 ], [ 10.412485, 63.413712 ], [ 10.412264, 63.413773 ], [ 10.412108, 63.413832 ], [ 10.412008, 63.413892 ], [ 10.411901, 63.413992 ], [ 10.411799, 63.414235 ], [ 10.411798, 63.414315 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 51564475.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411837, 63.413863 ], [ 10.412008, 63.413892 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 51564476.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412707, 63.413900 ], [ 10.413320, 63.413990 ], [ 10.413809, 63.414120 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 51972126.000000, "name": "Elgeseter gate", "ref": "E6", "type": "trunk", "oneway": 0, "bridge": 0, "maxspeed": 50 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.396141, 63.419217 ], [ 10.396736, 63.418088 ], [ 10.397332, 63.416737 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 51972127.000000, "name": "Einar Tambarskjelves gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.396141, 63.419217 ], [ 10.397011, 63.419334 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 55379624.000000, "name": "Strindveien", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411550, 63.416143 ], [ 10.411698, 63.416498 ], [ 10.411840, 63.416729 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 55382806.000000, "name": "Holtermanns veg", "ref": "", "type": "trunk", "oneway": 1, "bridge": 0, "maxspeed": 50 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399246, 63.412550 ], [ 10.399191, 63.412920 ], [ 10.398964, 63.413587 ], [ 10.398698, 63.414189 ], [ 10.398275, 63.414958 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 55606031.000000, "name": "Jonsvannsveien", "ref": "", "type": "tertiary", "oneway": 0, "bridge": 0, "maxspeed": 30 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.413232, 63.418577 ], [ 10.414446, 63.417954 ], [ 10.415235, 63.417549 ], [ 10.415536, 63.417404 ], [ 10.416041, 63.417189 ], [ 10.416750, 63.416944 ], [ 10.417179, 63.416828 ], [ 10.417652, 63.416787 ], [ 10.418225, 63.416760 ], [ 10.419950, 63.416830 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 58606696.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402453, 63.417381 ], [ 10.402607, 63.417413 ], [ 10.402750, 63.417492 ], [ 10.403114, 63.417564 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 61502982.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.393880, 63.420910 ], [ 10.393699, 63.421261 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80422892.000000, "name": "Strindveien", "ref": "FV864", "type": "secondary", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401045, 63.412697 ], [ 10.402713, 63.412876 ], [ 10.403478, 63.413007 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80447902.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407456, 63.414729 ], [ 10.407404, 63.414725 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80447903.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404470, 63.418491 ], [ 10.404394, 63.418566 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80447904.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408927, 63.414835 ], [ 10.408764, 63.414800 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80447905.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406192, 63.416941 ], [ 10.406265, 63.416957 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80447907.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405716, 63.417969 ], [ 10.405676, 63.418013 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80447908.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404374, 63.418081 ], [ 10.404556, 63.418119 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80447909.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405804, 63.414864 ], [ 10.405984, 63.414901 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80537522.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.397253, 63.416383 ], [ 10.397455, 63.416382 ], [ 10.397530, 63.416392 ], [ 10.397839, 63.416422 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80540086.000000, "name": "", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.396307, 63.418027 ], [ 10.396557, 63.417581 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80581653.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.398298, 63.420439 ], [ 10.398042, 63.420468 ], [ 10.397909, 63.420469 ], [ 10.397843, 63.420459 ], [ 10.397788, 63.420425 ], [ 10.397669, 63.420207 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80698388.000000, "name": "Tormods gate", "ref": "", "type": "residential", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395665, 63.420126 ], [ 10.396973, 63.420248 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 80836450.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.414786, 63.413614 ], [ 10.416446, 63.413608 ], [ 10.417601, 63.413615 ], [ 10.417683, 63.413619 ], [ 10.418264, 63.413625 ], [ 10.418856, 63.413691 ], [ 10.419348, 63.413799 ], [ 10.419598, 63.413868 ], [ 10.419596, 63.413913 ], [ 10.419496, 63.414004 ], [ 10.419433, 63.414045 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 81298773.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395047, 63.419883 ], [ 10.395091, 63.419792 ], [ 10.395237, 63.419436 ], [ 10.394629, 63.419370 ], [ 10.394371, 63.419342 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 81298790.000000, "name": "", "ref": "", "type": "service", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395471, 63.419923 ], [ 10.395813, 63.419869 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 81298793.000000, "name": "", "ref": "", "type": "service", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395512, 63.420400 ], [ 10.395377, 63.420336 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 81298796.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395250, 63.420323 ], [ 10.395471, 63.419923 ], [ 10.395047, 63.419883 ], [ 10.394806, 63.419871 ], [ 10.394512, 63.419915 ], [ 10.394356, 63.420234 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82227880.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409326, 63.412916 ], [ 10.409417, 63.412968 ], [ 10.409561, 63.413016 ], [ 10.410265, 63.413120 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82406079.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401524, 63.419230 ], [ 10.401438, 63.419213 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82406080.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402268, 63.418455 ], [ 10.402318, 63.418465 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82406084.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403642, 63.416467 ], [ 10.403824, 63.416434 ], [ 10.403990, 63.416384 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82406085.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405744, 63.417446 ], [ 10.405783, 63.417454 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82425128.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402650, 63.419454 ], [ 10.402624, 63.419480 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82425129.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402697, 63.419316 ], [ 10.402678, 63.419335 ], [ 10.402752, 63.419350 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82425130.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399697, 63.418107 ], [ 10.399625, 63.418177 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82425132.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400200, 63.418641 ], [ 10.400100, 63.418615 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82425133.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400684, 63.419337 ], [ 10.400687, 63.419307 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82425134.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404006, 63.415373 ], [ 10.404166, 63.415405 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82425137.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404305, 63.415293 ], [ 10.404342, 63.415326 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82425140.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403008, 63.419624 ], [ 10.402973, 63.419616 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 82425143.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408146, 63.416469 ], [ 10.408095, 63.416462 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 83224036.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407411, 63.416440 ], [ 10.407689, 63.416502 ], [ 10.407837, 63.416534 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 88193096.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410265, 63.413120 ], [ 10.410313, 63.413059 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 88193097.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408608, 63.413838 ], [ 10.408542, 63.413932 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 88193100.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.410635, 63.413042 ], [ 10.410933, 63.413013 ], [ 10.411636, 63.413050 ], [ 10.412259, 63.413106 ], [ 10.412837, 63.412982 ], [ 10.413402, 63.412834 ], [ 10.413743, 63.412738 ], [ 10.414053, 63.412628 ], [ 10.414218, 63.412617 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 88221421.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408436, 63.416277 ], [ 10.408415, 63.416188 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 88221422.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409338, 63.416151 ], [ 10.409767, 63.416134 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 88221423.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407619, 63.416244 ], [ 10.407746, 63.416225 ], [ 10.407886, 63.416209 ], [ 10.408415, 63.416188 ], [ 10.409338, 63.416151 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 88221424.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.409767, 63.416134 ], [ 10.410331, 63.416111 ], [ 10.410712, 63.416097 ], [ 10.411238, 63.416071 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 88778395.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402723, 63.412955 ], [ 10.402382, 63.412874 ], [ 10.401030, 63.412719 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89655750.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405521, 63.415171 ], [ 10.405519, 63.415127 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89664070.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407576, 63.416268 ], [ 10.407411, 63.416440 ], [ 10.407365, 63.416487 ], [ 10.407140, 63.416721 ], [ 10.407347, 63.416762 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89675984.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404636, 63.417872 ], [ 10.404741, 63.417767 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89678614.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.407098, 63.417119 ], [ 10.407216, 63.417143 ], [ 10.407318, 63.417163 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89678615.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406802, 63.417544 ], [ 10.406696, 63.417522 ], [ 10.406122, 63.417404 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89678616.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.406419, 63.418019 ], [ 10.406330, 63.418002 ], [ 10.406234, 63.417984 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89681092.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405389, 63.417902 ], [ 10.405012, 63.418278 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89681275.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405747, 63.418410 ], [ 10.405852, 63.418434 ], [ 10.405959, 63.418458 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89681276.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.405433, 63.418642 ], [ 10.404966, 63.418542 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89683311.000000, "name": "", "ref": "", "type": "path", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404860, 63.420346 ], [ 10.404776, 63.419869 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89686670.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402804, 63.417611 ], [ 10.403022, 63.417656 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89686672.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402702, 63.417711 ], [ 10.402921, 63.417756 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89751017.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401676, 63.419751 ], [ 10.401817, 63.419609 ], [ 10.401907, 63.419518 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89751018.000000, "name": "Høgskoleveien", "ref": "", "type": "unclassified", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402732, 63.419788 ], [ 10.403214, 63.419830 ], [ 10.403362, 63.419859 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89751019.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401552, 63.419872 ], [ 10.401676, 63.419751 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89751022.000000, "name": "", "ref": "", "type": "steps", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401907, 63.419518 ], [ 10.401919, 63.419506 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89802386.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402595, 63.418079 ], [ 10.402633, 63.418155 ], [ 10.402318, 63.418465 ], [ 10.402050, 63.418727 ], [ 10.401975, 63.418801 ], [ 10.401909, 63.418830 ], [ 10.401524, 63.419230 ], [ 10.401715, 63.419267 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89802387.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.403210, 63.417469 ], [ 10.402858, 63.417395 ], [ 10.402782, 63.417379 ], [ 10.402607, 63.417413 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89802388.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.404283, 63.417769 ], [ 10.404298, 63.417811 ], [ 10.403994, 63.418117 ], [ 10.404168, 63.418154 ], [ 10.404276, 63.418177 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89803050.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402595, 63.418079 ], [ 10.403253, 63.418215 ], [ 10.403802, 63.418328 ], [ 10.404033, 63.418288 ], [ 10.404168, 63.418154 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89810706.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.402790, 63.419752 ], [ 10.402721, 63.419746 ], [ 10.402571, 63.419717 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89810707.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.401048, 63.418908 ], [ 10.401080, 63.418939 ], [ 10.401082, 63.418967 ], [ 10.400847, 63.419210 ], [ 10.400672, 63.419391 ], [ 10.400657, 63.419427 ], [ 10.400704, 63.419463 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 89810708.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.400990, 63.419387 ], [ 10.401164, 63.419424 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 93258189.000000, "name": "", "ref": "", "type": "path", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408835, 63.412495 ], [ 10.409539, 63.412866 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 93258192.000000, "name": "", "ref": "", "type": "path", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.411377, 63.413267 ], [ 10.411514, 63.413167 ], [ 10.411636, 63.413050 ], [ 10.411753, 63.412901 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 93260797.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.412021, 63.412974 ], [ 10.411753, 63.412901 ], [ 10.411314, 63.412781 ], [ 10.410534, 63.412634 ], [ 10.409210, 63.412438 ], [ 10.409029, 63.412425 ], [ 10.408842, 63.412412 ], [ 10.408707, 63.412407 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 97888153.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.399892, 63.415230 ], [ 10.400187, 63.415204 ], [ 10.400520, 63.415175 ], [ 10.400835, 63.415148 ], [ 10.401124, 63.415123 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99153856.000000, "name": "", "ref": "", "type": "cycleway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.408884, 63.414465 ], [ 10.408794, 63.414555 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99164042.000000, "name": "", "ref": "", "type": "service", "oneway": 1, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.392607, 63.421002 ], [ 10.392501, 63.420931 ], [ 10.391881, 63.420862 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99185872.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.392621, 63.415042 ], [ 10.392396, 63.415347 ], [ 10.392162, 63.415675 ], [ 10.391917, 63.416008 ], [ 10.391682, 63.416343 ], [ 10.391435, 63.416696 ], [ 10.391361, 63.416928 ], [ 10.391338, 63.417013 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99185875.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.391128, 63.415156 ], [ 10.391691, 63.415236 ], [ 10.392396, 63.415347 ], [ 10.392790, 63.415395 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99185877.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.395156, 63.414632 ], [ 10.394640, 63.414614 ], [ 10.393601, 63.414599 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99185881.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.394640, 63.414614 ], [ 10.394530, 63.414730 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99185882.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.391774, 63.417144 ], [ 10.391608, 63.417336 ], [ 10.391370, 63.417644 ], [ 10.391288, 63.417740 ], [ 10.391276, 63.417852 ], [ 10.391413, 63.417921 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99185892.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.390022, 63.416111 ], [ 10.390637, 63.416198 ], [ 10.390971, 63.416239 ], [ 10.391682, 63.416343 ], [ 10.392207, 63.416419 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99185900.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.391900, 63.414932 ], [ 10.391691, 63.415236 ], [ 10.391457, 63.415572 ], [ 10.391218, 63.415911 ], [ 10.390971, 63.416239 ], [ 10.390733, 63.416586 ], [ 10.390548, 63.416604 ], [ 10.390390, 63.416551 ], [ 10.389618, 63.416423 ], [ 10.388886, 63.416271 ], [ 10.388297, 63.416130 ], [ 10.387908, 63.416032 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99185903.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.390752, 63.415471 ], [ 10.391457, 63.415572 ], [ 10.392162, 63.415675 ], [ 10.392637, 63.415738 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99186065.000000, "name": "", "ref": "", "type": "footway", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.393880, 63.420910 ], [ 10.393901, 63.420856 ], [ 10.393862, 63.420812 ], [ 10.393793, 63.420780 ], [ 10.393625, 63.420766 ] ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": 99930234.000000, "name": "", "ref": "", "type": "service", "oneway": 0, "bridge": 0, "maxspeed": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 10.415235, 63.417549 ], [ 10.415412, 63.417611 ], [ 10.415742, 63.417560 ] ] } }
+
+]
+}

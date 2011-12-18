@@ -1,0 +1,73 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <title>Geolocation sample</title>
+    <meta charset="utf-8" />
+    <!-- Leaflet CSS --> 
+    <link rel="stylesheet" href="leaflet/leaflet.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="leaflet/leaflet.ie.css" /><![endif]-->
+
+    <!-- Leaflet JavaScript -->
+    <script src="leaflet/leaflet.js"></script>
+    <script type="text/javascript">
+        
+        function init_map() {
+            
+            var map = new L.Map('map');
+            
+            // Add openstreetmap tile layer
+            
+            var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+            var osmAttrib='Map data © openstreetmap contributors';
+            var osm = new L.TileLayer(osmUrl,{minZoom: 8, maxZoom: 18, attribution: osmAttrib});
+            
+            var center = new L.LatLng(63.417286087926236, 10.404160022735596); // geographical point (longitude and latitude)
+            
+            map.setView(center, 13).addLayer(osm);
+            
+            //map.addLayer(cloudmadeUrl);
+            
+            // check for HTML5 Geolocation support
+            if (navigator.geolocation) {
+                var current_position;
+                
+                //get current position and define callback (it is an asynchronous function)
+                navigator.geolocation.getCurrentPosition(
+                    // on success
+                    function(position) {
+                            current_position = position;
+                            marker_location = new L.LatLng(current_position.coords.latitude, current_position.coords.longitude);
+                            
+                            // create and add a new marker on the users position
+                            position = new L.Marker(marker_location);
+                            
+                            map.setView(marker_location, 16).addLayer(position);
+                            
+                            // add a popup with accuracy data to the marker
+                            position.bindPopup("<b>Accuracy</b>:<br/><small>" + current_position.coords.accuracy + " m").openPopup();
+                        },
+                        
+                    // on error, e.g. if the user refused to share his or her position
+                    function(error) {
+                            alert('Error occurred. Error code: ' + error.code);
+                            // error.code can be:
+                            //   0: unknown error
+                            //   1: permission denied
+                            //   2: position unavailable (error response from locaton provider)
+                            //   3: timed out
+                        }
+                    );
+                
+            }
+            
+        }
+    </script>
+</head>
+
+<body onLoad="init_map();">
+    <div id="map" style="height: 600px;width: 800px;"></div>
+</body>
+
+</html>

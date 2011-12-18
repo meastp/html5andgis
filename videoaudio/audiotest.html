@@ -1,0 +1,132 @@
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Audio sample</title>
+		<style type="text/css">
+		.player_control
+		{
+			float:left;
+			margin-right:5px;
+		}
+		#player
+		{
+			height:60px;
+		}
+		#volume_control
+		{
+			width:100px;
+			height:15px;
+			border: 2px solid #0a0;
+			display:none;
+			position:relative;
+		}
+		#volume_background
+		{
+			width:100px;
+			height:15px;
+			background-color:#ddd;
+		}
+		#volume_bar
+		{
+			width:100px;
+			height:0px;
+			background-color:#aca;
+			position:absolute;	
+		}
+		#duration
+		{
+			width:400px;
+			height:15px;
+			border: 2px solid #50b;
+		}
+		#duration_background
+		{
+			width:400px;
+			height:15px;
+			background-color:#ddd;
+		}
+		#duration_bar
+		{
+			width:0px;
+			height:15px;
+			background-color:#bbd;
+		}
+		</style>
+		<script type="text/javascript">
+		var audio_duration;
+		var audio_player;
+		
+		function pageLoaded()
+		{
+			audio_player = document.getElementById("aplayer");
+			volume_button = document.getElementById('volume_button');
+			volume_control = document.getElementById('volume_control');
+			audio_duration = audio_player.duration; //get duration
+			audio_player.volume = 0.7; // set volume
+		}
+
+		
+		function update()
+		{
+			//get the duration of the player
+			dur = audio_player.duration;
+			time = audio_player.currentTime;
+			fraction = time/dur;
+			percent = (fraction*100);
+			wrapper = document.getElementById("duration_background");
+			new_width = wrapper.offsetWidth*fraction;
+			document.getElementById("duration_bar").style.width=new_width+"px";
+
+		}
+		function playClicked(element)
+		{
+			//get the state of the player
+			if(audio_player.paused)
+			{
+				audio_player.play();
+				newdisplay = "pause";
+			}else{
+				audio_player.pause();
+				newdisplay = "play";
+			}
+			element.value=newdisplay;
+		}
+		function trackEnded()
+		{
+			//reset the playControl to 'play'
+			document.getElementById("playButton").value=">";
+		}
+		
+		function durationClicked(event)
+		{
+			//get the position of the event
+			clientX = event.clientX;
+			left = event.currentTarget.offsetLeft;
+			clickoffset = clientX - left;
+			percent = clickoffset/event.currentTarget.offsetWidth;
+			duration_seek = percent*audio_duration;
+			document.getElementById("aplayer").currentTime=duration_seek; 
+		}
+		</script>
+	</head>
+
+<body onLoad="pageLoaded();">
+		<div id='player'>
+			<input id="playButton" class='player_control' type="button" onClick="playClicked(this);" value="play">
+				<div id="duration" class='player_control' >
+					<div id="duration_background"  onClick="durationClicked(event);">
+						<div id="duration_bar" class="duration_bar"></div>
+					</div>
+				</div>
+		</div>
+		
+		<!-- music courtesy of http://www.kahvi.org/ , downloaded from vorbis.com/music -->
+		<audio id='aplayer' src="Hydrate-Kenny_Beltrey.ogg" type="audio/ogg; codecs=vorbis" onTimeUpdate="update();" onEnded="trackEnded();" >
+		    Your browser does not support the audio element.
+		</audio>
+</body>
+
+</html>
+

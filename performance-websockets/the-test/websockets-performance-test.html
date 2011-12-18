@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+    <title>Web Sockets sample</title>
+    <meta charset="utf-8" />
+    <!-- Leaflet CSS --> 
+    <link rel="stylesheet" href="leaflet/leaflet.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="leaflet/leaflet.ie.css" /><![endif]-->
+
+    <script src="jquery.min.js"></script>
+    <!-- Leaflet JavaScript -->
+    <script src="leaflet/leaflet.js"></script>
+    <!-- Script that sends create marker commands through a web socket -->
+    <script type="text/javascript">
+    
+    $(document).ready(function() {
+        
+        var times_store = [];
+        
+        var map = new L.Map('map');
+        
+        //
+        // Add openstreetmap tile layer
+        //
+        
+        var osmUrl='http://otile2.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png';
+        var osmAttrib='Map data © openstreetmap contributors';
+        var osm = new L.TileLayer(osmUrl,{minZoom: 8, maxZoom: 18, attribution: osmAttrib});
+        
+        //
+        // create a map center
+        //
+        
+        var center = new L.LatLng(63.417286087926236, 10.404160022735596); // geographical point (longitude and latitude)
+        
+        map.addLayer(osm).setView(center, 13);
+        
+        //
+        // Callback event for creating markers (click on map)
+        //
+        function clickOnMap(event) {
+            
+            
+            
+            // create new marker
+            var marker = new L.Marker(event.latlng);
+            
+            // create a marker dictionary for storing both latitude and longitude in one string
+            var marker_dict = {};
+            marker_dict.lat = event.latlng.lat;
+            marker_dict.lng = event.latlng.lng;
+            
+            marker_dict.start_time = (new Date).getTime()
+            
+            
+            // create a JSON string from the dictionary object
+            var marker_string = JSON.stringify(marker_dict);
+                   
+            websocket.send(marker_string);
+        }
+        
+        map.on('click', clickOnMap);
+        
+        
+        /*
+         * Web Socket
+         */
+        
+        var websocket_testserver_uri = "ws://echo.websocket.org";
+        
+        var websocket = new WebSocket(websocket_testserver_uri);
+        
+        websocket.onopen = function(evt) { console.log("Connected to "+websocket_testserver_uri); }
+        websocket.onclose = function(evt) { console.log("Disconnected from "+websocket_testserver_uri); }
+        websocket.onerror = function(evt) { console.log("Error from "+websocket_testserver_uri+" : "+evt.data); }
+        
+        websocket.onmessage = function(evt)
+        {
+            console.log("Received message from "+websocket_testserver_uri+" : "+evt.data);
+            
+            var end_time = (new Date).getTime();
+            
+            var data = JSON.parse(evt.data);
+            var latlng = new L.LatLng(data.lat, data.lng);
+            var LlastMarker = new L.Marker(latlng);
+            map.addLayer(LlastMarker);
+            
+            times_store.push(end_time-data.start_time);
+            
+            console.log("Used time was: "+(end_time-data.start_time));
+            console.log(times_store);
+        }
+    });
+    
+    </script>
+</head>
+
+<body>
+    <div id="map" style="height: 600px;width: 800px;"></div>
+</body>
+
+</html>
