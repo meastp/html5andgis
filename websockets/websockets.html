@@ -67,7 +67,7 @@
         
         var websocket_testserver_uri = "ws://echo.websocket.org";
         
-        var websocket = new WebSocket(websocket_testserver_uri);
+        var websocket = new MozWebSocket(websocket_testserver_uri);
         
         websocket.onopen = function(evt) { console.log("Connected to "+websocket_testserver_uri); }
         websocket.onclose = function(evt) { console.log("Disconnected from "+websocket_testserver_uri); }
@@ -82,7 +82,7 @@
             console.log("Used time was: "+(times_store[counter].end-times_store[counter].start))
             
             counter++;
-            
+            console.log(evt.data);
             var data = JSON.parse(evt.data);
             var latlng = new L.LatLng(data.lat, data.lng);
             var LlastMarker = new L.Marker(latlng);
